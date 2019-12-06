@@ -5933,3 +5933,5 @@ Script Stack (0 frames):
 [2019.12.06-18.17.57:750][405]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
 [2019.12.06-18.17.57:750][405]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
 [2019.12.06-18.17.58:597][405]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.06-18.17.58:701][405]LogExit: Exiting.
+[2019.12.06-18.17.59:059][405]Log file closed, 12/06/19 10:17:59

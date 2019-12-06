@@ -5545,3 +5545,39 @@ Script Stack (0 frames):
 [2019.12.06-18.15.07:440][412]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test1978E52B4D6185DF269F46A3B89E93E6.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap'
 [2019.12.06-18.15.07:466][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_BuiltData" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test_BuiltData.uasset" SILENT=true
 [2019.12.06-18.15.07:499][412]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test_BuiltData90858E304612CA3CEABE32AED037F363.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test_BuiltData.uasset'
+[2019.12.06-18.17.33:641][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.06-18.17.35:538][404]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-18.17.35:593][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Truck" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Truck.uasset" SILENT=true
+[2019.12.06-18.17.35:638][404]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_TruckF4FE4D0E4D6DCC179EE47FAB57DAFAB7.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Truck.uasset'
+[2019.12.06-18.17.35:648][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Red_Truck" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Meshes/Red_Truck.uasset" SILENT=true
+[2019.12.06-18.17.35:764][404]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Red_TruckECAEEC394B11E3765842AFB4E93C52EF.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Meshes/Red_Truck.uasset'
+[2019.12.06-18.17.36:073][404]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.36:136][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-18.17.36:136][404]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.36:315][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-18.17.36:315][404]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.36:358][404]LogSlate: Window 'BP_Log' being destroyed
+[2019.12.06-18.17.36:367][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-18.17.36:367][404]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.36:422][404]LogSlate: Window 'CrossyRoad - Unreal Editor' being destroyed
+[2019.12.06-18.17.36:424][404]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.06-18.17.37:606][405]Cmd: QUIT_EDITOR
+[2019.12.06-18.17.39:968][405]LogExit: Preparing to exit.
+[2019.12.06-18.17.43:418][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:418][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:418][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:418][405]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:421][405]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:424][405]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:426][405]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:428][405]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:430][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:431][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.06-18.17.43:434][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true

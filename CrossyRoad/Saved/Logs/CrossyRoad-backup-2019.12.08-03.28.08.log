@@ -1,0 +1,1220 @@
+﻿Log file open, 12/07/19 19:27:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058545
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:786][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-03.27.26:788][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-03.27.26:789][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-03.27.26:789][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-03.27.26:789][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.08-03.27.26:791][  0]LogHAL: Display: Platform has ~ 16 GB [17126744064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.08-03.27.26:791][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.08-03.27.26:791][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-03.27.26:791][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.08-03.27.26:792][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.27.26:792][  0]LogInit: Computer: DESKTOP-P2SHHKT
+[2019.12.08-03.27.26:792][  0]LogInit: User: russk89
+[2019.12.08-03.27.26:792][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.08-03.27.26:792][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.08-03.27.26:793][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.08-03.27.26:793][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-03.27.26:793][  0]LogMemory: Process Physical Memory: 101.38 MB used, 101.39 MB peak
+[2019.12.08-03.27.26:793][  0]LogMemory: Process Virtual Memory: 100.66 MB used, 100.66 MB peak
+[2019.12.08-03.27.26:793][  0]LogMemory: Physical Memory: 5644.13 MB used,  10689.20 MB free, 16333.34 MB total
+[2019.12.08-03.27.26:793][  0]LogMemory: Virtual Memory: 4668.48 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.08-03.27.26:795][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.08-03.27.26:815][  0]LogInit: Using OS detected language (en-US).
+[2019.12.08-03.27.26:815][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.08-03.27.26:816][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.08-03.27.26:958][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.08-03.27.26:990][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.27.26:990][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.27.27:127][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-03.27.27:127][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.08-03.27.27:183][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.12.08-03.27.27:183][  0]LogD3D11RHI:       2988/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.08-03.27.27:185][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.08-03.27.27:185][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.08-03.27.27:185][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.08-03.27.27:190][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.08-03.27.27:190][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.08-03.27.27:190][  0]LogWindows: EnumDisplayDevices:
+[2019.12.08-03.27.27:190][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.12.08-03.27.27:191][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.12.08-03.27.27:191][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.12.08-03.27.27:191][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.12.08-03.27.27:191][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.08-03.27.27:191][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.12.08-03.27.27:191][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.08-03.27.27:191][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.08-03.27.27:191][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.12.08-03.27.27:221][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.08-03.27.27:241][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.08-03.27.27:473][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.08-03.27.27:480][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.08-03.27.27:487][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.08-03.27.27:494][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.08-03.27.27:501][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.08-03.27.27:508][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.08-03.27.27:515][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.08-03.27.27:522][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.08-03.27.27:526][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.08-03.27.27:551][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.08-03.27.27:552][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.08-03.27.27:553][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.08-03.27.27:566][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.08-03.27.27:566][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.08-03.27.27:577][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.08-03.27.27:577][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.08-03.27.27:583][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.08-03.27.27:588][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.08-03.27.27:593][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.08-03.27.27:599][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.08-03.27.27:617][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.08-03.27.27:617][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.08-03.27.27:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.08-03.27.27:625][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.08-03.27.27:667][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Intermediate/Shaders/WorkingDirectory/12060/).
+[2019.12.08-03.27.27:667][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Russ/AppData/Local/Temp/UnrealShaderWorkingDir/78F1985147BE9068C82D70A582AC0F90/'.
+[2019.12.08-03.27.27:669][  0]LogXGEController: Cleaning working directory: C:/Users/Russ/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.08-03.27.27:669][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.08-03.27.27:669][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.08-03.27.27:669][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.08-03.27.28:136][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Russ/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Russ/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-03.27.28:177][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.08-03.27.28:186][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.08-03.27.28:186][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-03.27.28:186][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.08-03.27.28:187][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Russ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.08-03.27.28:187][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.08-03.27.28:187][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.08-03.27.28:203][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.08-03.27.28:205][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.08-03.27.28:205][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.08-03.27.28:246][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.12.08-03.27.28:504][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-03.27.28:622][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.08-03.27.28:622][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.08-03.27.28:622][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.08-03.27.28:622][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.08-03.27.28:622][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.08-03.27.28:630][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3055071226)
+[2019.12.08-03.27.28:985][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.038817 seconds
+[2019.12.08-03.27.28:990][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.08-03.27.28:990][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.08-03.27.28:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.08-03.27.29:627][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.08-03.27.29:629][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.08-03.27.29:668][  0]SourceControl: Source control is disabled
+[2019.12.08-03.27.29:668][  0]SourceControl: Source control is disabled
+[2019.12.08-03.27.29:669][  0]SourceControl: Source control is disabled
+[2019.12.08-03.27.29:670][  0]SourceControl: Source control is disabled
+[2019.12.08-03.27.29:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.08-03.27.29:856][  0]LogOcInput: OculusInput pre-init called
+[2019.12.08-03.27.29:861][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.08-03.27.29:861][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.08-03.27.29:913][  0]LogEngine: Initializing Engine...
+[2019.12.08-03.27.29:914][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-03.27.29:915][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.08-03.27.30:075][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.08-03.27.30:088][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.08-03.27.30:152][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-03.27.30:170][  0]LogInit: FAudioDevice initialized.
+[2019.12.08-03.27.30:170][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.08-03.27.30:302][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/Russ/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-03.27.30:308][  0]LogInit: Texture streaming: Enabled
+[2019.12.08-03.27.30:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.08-03.27.30:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.08-03.27.30:323][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.08-03.27.30:376][  0]LogInit: Transaction tracking system initialized
+[2019.12.08-03.27.30:401][  0]BlueprintLog: New page: Editor Load
+[2019.12.08-03.27.30:463][  0]LocalizationService: Localization service is disabled
+[2019.12.08-03.27.30:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/' took 0.00s
+[2019.12.08-03.27.30:638][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.08-03.27.30:638][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.08-03.27.30:772][  0]SourceControl: Source control is disabled
+[2019.12.08-03.27.30:772][  0]Cmd: MAP LOAD FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-03.27.30:772][  0]LogEditorServer: Warning: Can't find file '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.08-03.27.30:772][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-03.27.30:772][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.12.08-03.27.30:772][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.000
+[2019.12.08-03.27.30:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.27.30:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.27.30:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.27.30:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.27.30:877][  0]LogCollectionManager: Loaded 0 collections in 0.001585 seconds
+[2019.12.08-03.27.30:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Collections/' took 0.00s
+[2019.12.08-03.27.30:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Developers/russk89/Collections/' took 0.00s
+[2019.12.08-03.27.30:882][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Collections/' took 0.00s
+[2019.12.08-03.27.30:882][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.08-03.27.30:888][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2863 classes and 680 folders.
+[2019.12.08-03.27.30:893][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.27.30:923][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.27.30:927][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.08-03.27.30:941][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.08-03.27.30:942][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.08-03.27.30:946][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.08-03.27.30:993][  0]LogRenderer: Reallocating scene render targets to support 844x1168 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-03.27.31:077][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.27.31:077][  0]LogLoad: (Engine Initialization) Total time: 5.15 seconds
+[2019.12.08-03.27.31:077][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.08-03.27.31:116][  0]LogAssetRegistry: Asset discovery search completed in 2.8705 seconds
+[2019.12.08-03.27.31:118][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.12.08-03.27.31:118][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.12.08-03.27.31:122][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.08-03.27.31:153][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/' took 0.06s
+[2019.12.08-03.27.32:125][ 95]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-03.27.38:046][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-03.27.49:536][960]AssetReimport: New page: Outstanding source content changes 11:27:49 AM
+[2019.12.08-03.27.49:539][960]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/bannerhit3-g.wav)
+[2019.12.08-03.27.49:552][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/bendeath.wav)
+[2019.12.08-03.27.49:558][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/booktap.wav)
+[2019.12.08-03.27.49:560][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck1.wav)
+[2019.12.08-03.27.49:561][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck10.wav)
+[2019.12.08-03.27.49:563][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck11.wav)
+[2019.12.08-03.27.49:565][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck12.wav)
+[2019.12.08-03.27.49:567][961]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck2.wav)
+[2019.12.08-03.27.49:575][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck3.wav)
+[2019.12.08-03.27.49:577][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck4.wav)
+[2019.12.08-03.27.49:579][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck5.wav)
+[2019.12.08-03.27.49:581][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck6.wav)
+[2019.12.08-03.27.49:583][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck7.wav)
+[2019.12.08-03.27.49:584][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck8.wav)
+[2019.12.08-03.27.49:586][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/buck9.wav)
+[2019.12.08-03.27.49:589][962]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/car-engine-loop-deep.wav)
+[2019.12.08-03.27.49:599][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/car-horn.wav)
+[2019.12.08-03.27.49:601][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/carsquish3.wav)
+[2019.12.08-03.27.49:603][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/chickendeath.wav)
+[2019.12.08-03.27.49:604][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/chickendeath2.wav)
+[2019.12.08-03.27.49:606][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/crab1.wav)
+[2019.12.08-03.27.49:608][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/crab2.wav)
+[2019.12.08-03.27.49:609][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/crab3.wav)
+[2019.12.08-03.27.49:611][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/dogbark1.wav)
+[2019.12.08-03.27.49:613][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/dogbark2.wav)
+[2019.12.08-03.27.49:615][963]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/dogbark3.wav)
+[2019.12.08-03.27.49:673][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/dogbark4.wav)
+[2019.12.08-03.27.49:675][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/dot.wav)
+[2019.12.08-03.27.49:677][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/frog1.wav)
+[2019.12.08-03.27.49:679][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Get Coin 75 wav.wav)
+[2019.12.08-03.27.49:681][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Get Coin 79 wav.wav)
+[2019.12.08-03.27.49:684][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop2b.wav)
+[2019.12.08-03.27.49:685][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop2e.wav)
+[2019.12.08-03.27.49:687][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop2h.wav)
+[2019.12.08-03.27.49:689][964]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop2k.wav)
+[2019.12.08-03.27.49:697][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop2m.wav)
+[2019.12.08-03.27.49:699][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/hop5.wav)
+[2019.12.08-03.27.49:701][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/lilysplash.wav)
+[2019.12.08-03.27.49:702][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/logjump3.wav)
+[2019.12.08-03.27.49:704][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/logjump4.wav)
+[2019.12.08-03.27.49:706][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin1.wav)
+[2019.12.08-03.27.49:708][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin2.wav)
+[2019.12.08-03.27.49:709][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin3.wav)
+[2019.12.08-03.27.49:711][965]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin4.wav)
+[2019.12.08-03.27.49:721][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin5.wav)
+[2019.12.08-03.27.49:722][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin6.wav)
+[2019.12.08-03.27.49:724][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin7.wav)
+[2019.12.08-03.27.49:726][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/penguin8.wav)
+[2019.12.08-03.27.49:728][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop 1.wav)
+[2019.12.08-03.27.49:729][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop 2 Soft.wav)
+[2019.12.08-03.27.49:732][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop 2.wav)
+[2019.12.08-03.27.49:734][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop 3 edit.wav)
+[2019.12.08-03.27.49:736][966]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop 7 edit.wav)
+[2019.12.08-03.27.49:747][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Pop Wrong.wav)
+[2019.12.08-03.27.49:749][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/quack1.wav)
+[2019.12.08-03.27.49:751][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/quack2.wav)
+[2019.12.08-03.27.49:752][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/quack3.wav)
+[2019.12.08-03.27.49:754][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/quack4.wav)
+[2019.12.08-03.27.49:756][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/river.wav)
+[2019.12.08-03.27.49:758][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (1).wav)
+[2019.12.08-03.27.49:760][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (10).wav)
+[2019.12.08-03.27.49:762][967]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (11).wav)
+[2019.12.08-03.27.49:772][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (4).wav)
+[2019.12.08-03.27.49:774][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (5).wav)
+[2019.12.08-03.27.49:775][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (6).wav)
+[2019.12.08-03.27.49:777][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (7).wav)
+[2019.12.08-03.27.49:779][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (8).wav)
+[2019.12.08-03.27.49:781][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/roo hop (9).wav)
+[2019.12.08-03.27.49:783][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/Train Alarm.wav)
+[2019.12.08-03.27.49:785][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/train pass no horn.wav)
+[2019.12.08-03.27.49:788][968]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/train pass shorter.wav)
+[2019.12.08-03.27.49:798][969]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/trainsplat.wav)
+[2019.12.08-03.27.49:801][969]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/up up 2.wav)
+[2019.12.08-03.27.49:803][969]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound Effects/zombieatm3.wav)
+[2019.12.08-03.27.49:835][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/bannerhit3-g" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/bannerhit3-g.uasset" SILENT=true
+[2019.12.08-03.27.49:842][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/bannerhit3-gBB6FB50246250F1EF50020B478567925.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/bannerhit3-g.uasset'
+[2019.12.08-03.27.49:860][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/bendeath" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/bendeath.uasset" SILENT=true
+[2019.12.08-03.27.49:867][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/bendeathF9E70DB24B861D7454FBFF8A21F6599C.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/bendeath.uasset'
+[2019.12.08-03.27.49:881][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/booktap" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/booktap.uasset" SILENT=true
+[2019.12.08-03.27.49:888][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/booktap490F547C4254BAE4EB818E95D59CF508.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/booktap.uasset'
+[2019.12.08-03.27.49:904][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck1.uasset" SILENT=true
+[2019.12.08-03.27.49:911][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck12E2C6B6240AEAD40E71A338EBAE23F22.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck1.uasset'
+[2019.12.08-03.27.49:926][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck10" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck10.uasset" SILENT=true
+[2019.12.08-03.27.49:933][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck1064ABA983405779BE413F1FA11059A5DF.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck10.uasset'
+[2019.12.08-03.27.49:948][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck11" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck11.uasset" SILENT=true
+[2019.12.08-03.27.49:955][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck114F9AB2324F379DA597EC25B377FE8D38.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck11.uasset'
+[2019.12.08-03.27.49:971][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck12" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck12.uasset" SILENT=true
+[2019.12.08-03.27.49:978][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck129333CF924EE1E631540FE2AA86817E0A.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck12.uasset'
+[2019.12.08-03.27.49:991][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck2.uasset" SILENT=true
+[2019.12.08-03.27.49:998][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck2B93D6ADE4E7760D2E6469A990586C492.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck2.uasset'
+[2019.12.08-03.27.50:008][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck3.uasset" SILENT=true
+[2019.12.08-03.27.50:015][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck3101EC97B4B5FCEB5C77C3FA9BD6FF517.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck3.uasset'
+[2019.12.08-03.27.50:022][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck4" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck4.uasset" SILENT=true
+[2019.12.08-03.27.50:029][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck48F236354483A270167149E879427F293.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck4.uasset'
+[2019.12.08-03.27.50:036][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck5" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck5.uasset" SILENT=true
+[2019.12.08-03.27.50:043][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck5BB7FB5464C2527E04D5BC5AA8596F4B3.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck5.uasset'
+[2019.12.08-03.27.50:051][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck6" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck6.uasset" SILENT=true
+[2019.12.08-03.27.50:057][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck63A893709455CC3973D41F5951F5241E3.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck6.uasset'
+[2019.12.08-03.27.50:063][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck7" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck7.uasset" SILENT=true
+[2019.12.08-03.27.50:070][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck700CE36494B523FD29FFE98A215932448.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck7.uasset'
+[2019.12.08-03.27.50:077][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck8" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck8.uasset" SILENT=true
+[2019.12.08-03.27.50:084][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck8D9BD18434F41A986C3C2988CF8FF9981.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck8.uasset'
+[2019.12.08-03.27.50:092][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/buck9" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck9.uasset" SILENT=true
+[2019.12.08-03.27.50:098][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/buck93F955CF5460B7CD0CF3DFCB79924AB49.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/buck9.uasset'
+[2019.12.08-03.27.50:115][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/car-engine-loop-deep0B5300D64F6338B420E0FBBDFDB368A4.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/car-engine-loop-deep.uasset'
+[2019.12.08-03.27.50:122][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/car-horn" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/car-horn.uasset" SILENT=true
+[2019.12.08-03.27.50:129][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/car-hornF593F3B94508D8668F9211950C8DF48A.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/car-horn.uasset'
+[2019.12.08-03.27.50:138][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/carsquish3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/carsquish3.uasset" SILENT=true
+[2019.12.08-03.27.50:146][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/carsquish341B963CB48C262BB79141FB637C208E8.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/carsquish3.uasset'
+[2019.12.08-03.27.50:153][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/chickendeath" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/chickendeath.uasset" SILENT=true
+[2019.12.08-03.27.50:161][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/chickendeath374892EB4E29912A9F1E14AF9F922F9F.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/chickendeath.uasset'
+[2019.12.08-03.27.50:169][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/chickendeath2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/chickendeath2.uasset" SILENT=true
+[2019.12.08-03.27.50:176][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/chickendeath24E81D9694537D2793DF6E3855C6C6CBA.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/chickendeath2.uasset'
+[2019.12.08-03.27.50:184][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/crab1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab1.uasset" SILENT=true
+[2019.12.08-03.27.50:190][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/crab1BCDF49294FDC0F1E656CBCA6D578BE03.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab1.uasset'
+[2019.12.08-03.27.50:197][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/crab2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab2.uasset" SILENT=true
+[2019.12.08-03.27.50:204][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/crab26B67B90C4F329DEFC03A9796444D070A.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab2.uasset'
+[2019.12.08-03.27.50:211][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/crab3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab3.uasset" SILENT=true
+[2019.12.08-03.27.50:219][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/crab39741ADF941154B7DC7FB9E84876E7B5E.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/crab3.uasset'
+[2019.12.08-03.27.50:226][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/dogbark1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark1.uasset" SILENT=true
+[2019.12.08-03.27.50:234][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/dogbark17D521F91497B6F9D19A9BF9B768A3BFB.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark1.uasset'
+[2019.12.08-03.27.50:242][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/dogbark2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark2.uasset" SILENT=true
+[2019.12.08-03.27.50:248][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/dogbark299071467420127B6A4618E9742EB2863.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark2.uasset'
+[2019.12.08-03.27.50:256][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/dogbark3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark3.uasset" SILENT=true
+[2019.12.08-03.27.50:263][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/dogbark333913CC84F7D9B6FA9FF228885258CF2.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark3.uasset'
+[2019.12.08-03.27.50:271][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/dogbark4" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark4.uasset" SILENT=true
+[2019.12.08-03.27.50:277][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/dogbark4581756614F4098CAC562A1AD8E6CB440.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dogbark4.uasset'
+[2019.12.08-03.27.50:285][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/dot" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dot.uasset" SILENT=true
+[2019.12.08-03.27.50:292][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/dotE3C10B454270C2D17A4151B18F550417.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/dot.uasset'
+[2019.12.08-03.27.50:300][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/frog1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/frog1.uasset" SILENT=true
+[2019.12.08-03.27.50:307][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/frog168B154814401358C96E2CCB783276DE6.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/frog1.uasset'
+[2019.12.08-03.27.50:324][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Get_Coin_75_wav1F83567040E04D4D23D8348F517D2FC2.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Get_Coin_75_wav.uasset'
+[2019.12.08-03.27.50:338][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Get_Coin_79_wav1B1804C94F78A99B50C73F940E8E5E14.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Get_Coin_79_wav.uasset'
+[2019.12.08-03.27.50:345][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop2b" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2b.uasset" SILENT=true
+[2019.12.08-03.27.50:352][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop2b98A0247640DB49E2A6A3EEAD39FA5134.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2b.uasset'
+[2019.12.08-03.27.50:359][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop2e" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2e.uasset" SILENT=true
+[2019.12.08-03.27.50:368][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop2e0AE0242D49E113684A2FF7A1C14C3E88.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2e.uasset'
+[2019.12.08-03.27.50:375][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop2h" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2h.uasset" SILENT=true
+[2019.12.08-03.27.50:382][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop2h20D2D3E345D47A0DDA2BAB94DE8A775F.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2h.uasset'
+[2019.12.08-03.27.50:389][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop2k" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2k.uasset" SILENT=true
+[2019.12.08-03.27.50:396][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop2kCF6765F5432E134C61B1B4ADE5F3D675.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2k.uasset'
+[2019.12.08-03.27.50:403][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop2m" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2m.uasset" SILENT=true
+[2019.12.08-03.27.50:411][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop2m760F8E8941A05A51BC9B1180C9A0E945.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop2m.uasset'
+[2019.12.08-03.27.50:418][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/hop5" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop5.uasset" SILENT=true
+[2019.12.08-03.27.50:425][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/hop50B5FE1664C244FD79ECA2396D057CB93.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/hop5.uasset'
+[2019.12.08-03.27.50:434][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/lilysplash" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/lilysplash.uasset" SILENT=true
+[2019.12.08-03.27.50:441][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/lilysplash68BE058A43433F85E4E16885ABB3DB1D.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/lilysplash.uasset'
+[2019.12.08-03.27.50:449][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/logjump3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/logjump3.uasset" SILENT=true
+[2019.12.08-03.27.50:457][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/logjump31AF75F1248F165857F94618A5D357A59.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/logjump3.uasset'
+[2019.12.08-03.27.50:464][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/logjump4" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/logjump4.uasset" SILENT=true
+[2019.12.08-03.27.50:471][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/logjump4AD7496534C7C9DED25FA1C9BE29D4C97.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/logjump4.uasset'
+[2019.12.08-03.27.50:478][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin1.uasset" SILENT=true
+[2019.12.08-03.27.50:485][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin10B8C20804CFD60691C1F0B961013D3B8.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin1.uasset'
+[2019.12.08-03.27.50:492][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin2.uasset" SILENT=true
+[2019.12.08-03.27.50:499][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin276970F874202D5A346A2CB80B6D1F332.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin2.uasset'
+[2019.12.08-03.27.50:506][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin3.uasset" SILENT=true
+[2019.12.08-03.27.50:517][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin3746E66974FEC9DB272E8E4AC4135EF59.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin3.uasset'
+[2019.12.08-03.27.50:525][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin4" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin4.uasset" SILENT=true
+[2019.12.08-03.27.50:533][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin44360073D4F4BD6A09D2574A7E7E67876.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin4.uasset'
+[2019.12.08-03.27.50:541][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin5" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin5.uasset" SILENT=true
+[2019.12.08-03.27.50:551][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin5BDD9303042FAB15AA20E8ABD5E986F26.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin5.uasset'
+[2019.12.08-03.27.50:559][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin6" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin6.uasset" SILENT=true
+[2019.12.08-03.27.50:569][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin663A5164449B20B785675F18F0F11D17C.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin6.uasset'
+[2019.12.08-03.27.50:576][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin7" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin7.uasset" SILENT=true
+[2019.12.08-03.27.50:584][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin78781E933482DB5D0D64426B4D40BC476.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin7.uasset'
+[2019.12.08-03.27.50:592][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/penguin8" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin8.uasset" SILENT=true
+[2019.12.08-03.27.50:599][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/penguin8A33B159B4D05823557390F98542547F7.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/penguin8.uasset'
+[2019.12.08-03.27.50:608][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_1.uasset" SILENT=true
+[2019.12.08-03.27.50:615][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_172FB96F3420A4DFFD0AAA8B42BCB8D81.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_1.uasset'
+[2019.12.08-03.27.50:623][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_2_Soft" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_2_Soft.uasset" SILENT=true
+[2019.12.08-03.27.50:631][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_2_SoftE245B0314F5FC70BA8A507951EF2C942.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_2_Soft.uasset'
+[2019.12.08-03.27.50:638][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_2.uasset" SILENT=true
+[2019.12.08-03.27.50:647][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_2C4ADA8C740E42D848184EAB8FD91CBA7.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_2.uasset'
+[2019.12.08-03.27.50:655][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_3_edit" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_3_edit.uasset" SILENT=true
+[2019.12.08-03.27.50:662][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_3_editCD1A79664FFFE221CBC58C92C7418A12.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_3_edit.uasset'
+[2019.12.08-03.27.50:669][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_7_edit" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_7_edit.uasset" SILENT=true
+[2019.12.08-03.27.50:676][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_7_edit05C829184BD2AC5A38AA648C9D8D067F.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_7_edit.uasset'
+[2019.12.08-03.27.50:687][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Pop_Wrong" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_Wrong.uasset" SILENT=true
+[2019.12.08-03.27.50:695][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Pop_Wrong5F97821D4EA07AAF6C49728C3A9BE5E5.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Pop_Wrong.uasset'
+[2019.12.08-03.27.50:702][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/quack1" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack1.uasset" SILENT=true
+[2019.12.08-03.27.50:709][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/quack1A2D24D634488E3C63DEEA785E25F2AAF.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack1.uasset'
+[2019.12.08-03.27.50:717][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/quack2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack2.uasset" SILENT=true
+[2019.12.08-03.27.50:725][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/quack25E2F25F0476E45F74B71569978208CB9.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack2.uasset'
+[2019.12.08-03.27.50:733][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/quack3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack3.uasset" SILENT=true
+[2019.12.08-03.27.50:740][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/quack357ECF1CA435B0E3F6D132C9A4F450AC3.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack3.uasset'
+[2019.12.08-03.27.50:749][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/quack4" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack4.uasset" SILENT=true
+[2019.12.08-03.27.50:757][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/quack461AD4DFC4E12FD16AEDF2D8BDCDC52E4.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/quack4.uasset'
+[2019.12.08-03.27.50:764][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/river" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/river.uasset" SILENT=true
+[2019.12.08-03.27.50:771][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/riverF0C0783B4E0EA513137401B1BD16EB78.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/river.uasset'
+[2019.12.08-03.27.50:779][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__1_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__1_.uasset" SILENT=true
+[2019.12.08-03.27.50:786][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__1_024E065440196D85D6E172983444BBFE.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__1_.uasset'
+[2019.12.08-03.27.50:794][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__10_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__10_.uasset" SILENT=true
+[2019.12.08-03.27.50:802][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__10_A7A9F8754048FF0B9A2C98BCA0CB1AAA.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__10_.uasset'
+[2019.12.08-03.27.50:810][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__11_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__11_.uasset" SILENT=true
+[2019.12.08-03.27.50:818][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__11_567928104E5FA1BC35135C8BD999D017.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__11_.uasset'
+[2019.12.08-03.27.50:826][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__4_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__4_.uasset" SILENT=true
+[2019.12.08-03.27.50:834][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__4_CE74E8794F59827F4ABE778078A62AEE.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__4_.uasset'
+[2019.12.08-03.27.50:843][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__5_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__5_.uasset" SILENT=true
+[2019.12.08-03.27.50:851][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__5_E4FC72E94BA557AA29CEFF82E3846391.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__5_.uasset'
+[2019.12.08-03.27.50:859][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__6_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__6_.uasset" SILENT=true
+[2019.12.08-03.27.50:866][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__6_2FD8A9934EE60AE2CF936B920329102A.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__6_.uasset'
+[2019.12.08-03.27.50:873][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__7_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__7_.uasset" SILENT=true
+[2019.12.08-03.27.50:882][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__7_4B0413B944EBE12BE9035E872EB50673.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__7_.uasset'
+[2019.12.08-03.27.50:890][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__8_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__8_.uasset" SILENT=true
+[2019.12.08-03.27.50:897][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__8_54A3FAC64AEE2C5FDC2548915965BE94.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__8_.uasset'
+[2019.12.08-03.27.50:908][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/roo_hop__9_" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__9_.uasset" SILENT=true
+[2019.12.08-03.27.50:917][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/roo_hop__9_BBDA389446E02D811FF2BB8DA6836D95.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/roo_hop__9_.uasset'
+[2019.12.08-03.27.50:927][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Train_Alarm" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Train_Alarm.uasset" SILENT=true
+[2019.12.08-03.27.50:935][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/Train_Alarm85E6F00644CC3296384371B5C07CC843.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/Train_Alarm.uasset'
+[2019.12.08-03.27.50:951][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/train_pass_no_hornE9D82120463566D9816D1FB46D97A995.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/train_pass_no_horn.uasset'
+[2019.12.08-03.27.50:966][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/train_pass_shorterFFBB53544BFD09D0A24D7DA16FCAB456.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/train_pass_shorter.uasset'
+[2019.12.08-03.27.50:974][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/trainsplat" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/trainsplat.uasset" SILENT=true
+[2019.12.08-03.27.50:981][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/trainsplat8A1C09CE4601BA42DC5CCDBBB0F67839.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/trainsplat.uasset'
+[2019.12.08-03.27.50:988][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/up_up_2" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/up_up_2.uasset" SILENT=true
+[2019.12.08-03.27.50:995][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/up_up_2C58C33DA4BEEC355A0B30B9A456E89B9.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/up_up_2.uasset'
+[2019.12.08-03.27.51:005][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/zombieatm3" FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/zombieatm3.uasset" SILENT=true
+[2019.12.08-03.27.51:011][969]LogSavePackage: Moving '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Saved/zombieatm39ACDF3E7442FD4D969D6EBA46B3C9DC0.tmp' to '../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Sound_Effects/zombieatm3.uasset'
+[2019.12.08-03.27.52:057][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Car.BP_Car
+[2019.12.08-03.27.52:251][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.08-03.27.52:977][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2019.12.08-03.27.53:259][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2019.12.08-03.27.53:538][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Log.BP_Log
+[2019.12.08-03.27.53:790][ 53]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.08-03.27.53:822][ 54]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/bannerhit3-g.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/bendeath.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/booktap.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck1.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck10.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck11.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck12.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck2.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck3.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck4.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck5.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck6.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck7.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck8.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/buck9.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/car-engine-loop-deep.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/car-horn.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/carsquish3.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/chickendeath.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/chickendeath2.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/crab1.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/crab2.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/crab3.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/dogbark1.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/dogbark2.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/dogbark3.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/dogbark4.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/dot.
+[2019.12.08-03.27.54:024][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/frog1.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Get_Coin_75_wav.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Get_Coin_79_wav.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop2b.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop2e.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop2h.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop2k.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop2m.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/hop5.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/lilysplash.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/logjump3.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/logjump4.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin1.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin2.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin3.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin4.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin5.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin6.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin7.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/penguin8.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_1.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_2_Soft.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_2.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_3_edit.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_7_edit.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Pop_Wrong.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/quack1.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/quack2.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/quack3.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/quack4.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/river.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__1_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__10_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__11_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__4_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__5_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__6_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__7_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__8_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/roo_hop__9_.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/Train_Alarm.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/train_pass_no_horn.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/train_pass_shorter.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/trainsplat.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/up_up_2.
+[2019.12.08-03.27.54:025][ 77]AssetReimport: Importing new asset /Game/Sound_Effects/zombieatm3.
+[2019.12.08-03.27.59:107][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CrossyRoad.CrossyRoad
+[2019.12.08-03.28.01:314][921]LogSlate: Window 'CrossyRoad' being destroyed
+[2019.12.08-03.28.01:317][921]LogSlate: Window 'CrossyRoad' being destroyed
+[2019.12.08-03.28.01:324][921]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.01:357][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-03.28.01:357][921]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.01:395][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-03.28.01:395][921]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.01:438][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-03.28.01:438][921]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.01:476][921]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-03.28.01:476][921]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.02:798][ 69]LogAIModule: Creating AISystem for world Test
+[2019.12.08-03.28.02:803][ 69]LogAssetEditorManager: Opening Asset editor for World /Game/Test.Test
+[2019.12.08-03.28.02:835][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.08-03.28.02:836][ 69]Cmd: MAP LOAD FILE="../../../../../Users/Russ/Documents/GitHub/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-03.28.02:836][ 69]LightingResults: New page: Lighting Build
+[2019.12.08-03.28.02:840][ 69]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.12.08-03.28.02:840][ 69]LoadErrors: New page: Loading map: Test.umap
+[2019.12.08-03.28.02:840][ 69]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.02:840][ 69]MapCheck: New page: Map Check
+[2019.12.08-03.28.02:841][ 69]LightingResults: New page: Lighting Build
+[2019.12.08-03.28.02:864][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.08-03.28.02:866][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-03.28.02:889][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.08-03.28.02:910][ 69]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-03.28.02:910][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.12.08-03.28.02:910][ 69]LogFileHelpers: Loading map 'Test' took 0.075
+[2019.12.08-03.28.06:159][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.08-03.28.06:214][418]LogSlate: Window 'CrossyRoad - Unreal Editor' being destroyed
+[2019.12.08-03.28.06:214][418]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.08-03.28.06:300][419]Cmd: QUIT_EDITOR
+[2019.12.08-03.28.06:320][419]LogExit: Preparing to exit.
+[2019.12.08-03.28.06:683][419]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.08-03.28.06:689][419]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.28.06:689][419]LogExit: Editor shut down
+[2019.12.08-03.28.06:689][419]LogExit: Transaction tracking system shut down
+[2019.12.08-03.28.06:911][419]LogExit: Object subsystem successfully closed.
+[2019.12.08-03.28.06:935][419]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module StatsViewer (670)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module BlueprintGraph (668)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (666)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module SceneOutliner (664)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module AddContentDialog (662)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module WidgetCarousel (661)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module EditorWidgets (658)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module CollectionManager (656)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.08-03.28.06:958][419]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.08-03.28.06:959][419]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.08-03.28.07:514][419]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.08-03.28.07:515][419]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.08-03.28.07:557][419]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.08-03.28.07:561][419]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.08-03.28.07:564][419]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.08-03.28.07:689][419]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.08-03.28.07:690][419]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.08-03.28.07:791][419]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.08-03.28.07:892][419]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.08-03.28.07:892][419]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.08-03.28.07:893][419]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.08-03.28.07:895][419]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.08-03.28.07:896][419]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.08-03.28.08:226][419]LogDerivedDataCache: Shutdown
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.08-03.28.08:226][419]LogXGEController: Cleaning working directory: C:/Users/Russ/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.08-03.28.08:226][419]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.08-03.28.08:227][419]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.08-03.28.08:228][419]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.08-03.28.08:228][419]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.08-03.28.08:231][419]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.08-03.28.08:232][419]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.08-03.28.08:232][419]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.08-03.28.08:242][419]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.08-03.28.08:242][419]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.08-03.28.08:242][419]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1064D7F-43B8-116A-1213-D9A62AE3E0FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=1d46203044202d81e801d7aedda32ead%7C07592840b2be4c4db3be01b2ff60ec0b%7Cc3a9ddd6-caf6-4ea3-b4bd-bdc693968815&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.08-03.28.08:253][419]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.08-03.28.08:253][419]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.08-03.28.08:254][419]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.08-03.28.08:255][419]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.08-03.28.08:256][419]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.08-03.28.08:257][419]LogD3D11RHI: Shutdown
+[2019.12.08-03.28.08:257][419]LogD3D11RHI: CleanupD3DDevice
+[2019.12.08-03.28.08:258][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.28.08:258][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.28.08:258][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.28.08:302][419]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.08-03.28.08:309][419]LogExit: Exiting.
+[2019.12.08-03.28.08:324][419]Log file closed, 12/07/19 19:28:08

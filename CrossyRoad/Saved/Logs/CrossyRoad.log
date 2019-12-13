@@ -8587,3 +8587,1249 @@ Make sure 'BP_Train_C' has been compiled for  Get MoveSpeed
 [2019.12.12-23.23.40:146][646]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_LaneSpawnerB12180E4448DA9EF1D57188398F8D57F.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_LaneSpawner.uasset'
 [2019.12.12-23.23.42:463][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Lane" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Lane.uasset" SILENT=true
 [2019.12.12-23.23.42:567][750]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Lane05D594E6403520394C82A99FDF827150.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Lane.uasset'
+[2019.12.12-23.24.24:860][ 63]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.12-23.24.24:884][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.24.24:884][ 63]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-23.24.24:888][ 63]LogPlayLevel: [PlayLevel] Compiling BP_LaneSpawner before play...
+[2019.12.12-23.24.25:142][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.12-23.24.25:142][ 63]LogPlayLevel: PlayLevel: Blueprint regeneration took 258 ms (1 blueprints)
+[2019.12.12-23.24.25:142][ 63]PIE: New page: PIE session: Test (Dec 12, 2019, 7:24:25 AM)
+[2019.12.12-23.24.25:142][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.12-23.24.25:146][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003973s)
+[2019.12.12-23.24.25:148][ 63]LogAIModule: Creating AISystem for world Test
+[2019.12.12-23.24.25:148][ 63]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2019.12.12-23.24.25:148][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005538s)
+[2019.12.12-23.24.25:189][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.12-23.24.25:215][ 63]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.24.25:241][ 63]LogInit: FAudioDevice initialized.
+[2019.12.12-23.24.25:261][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.24.25:262][ 63]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.12-23.24.25:263][ 63]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-15.24.25
+[2019.12.12-23.24.25:264][ 63]LogWorld: Bringing up level for play took: 0.001138
+[2019.12.12-23.24.25:264][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_281
+[2019.12.12-23.24.25:272][ 63]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.397
+[2019.12.12-23.24.25:273][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.25.13:955][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.25.13:955][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.25.13:955][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.12-23.25.13:970][828]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-23.25.13:982][828]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-23.25.13:996][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-23.25.13:996][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.25.14:067][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.12-23.25.14:116][829]LogPlayLevel: Display: Destroying online subsystem :Context_281
+[2019.12.12-23.27.45:175][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.12-23.30.23:266][545]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-23.30.23:656][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.12-23.30.23:669][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.12-23.30.24:518][545]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test_Auto041ED5A424BA551D28EF3CF902D5636E3.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto0.umap'
+[2019.12.12-23.30.24:546][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test' took 0.956
+[2019.12.12-23.30.24:546][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.956
+[2019.12.12-23.54.25:273][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.26:324][148]LogInit: XAudio2 using 'DELL S2319NX (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.26:450][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.26:722][150]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.26:932][151]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.27:402][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.27:889][162]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.28:156][163]LogInit: XAudio2 using 'DELL S2319NX (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.28:158][163]LogAudio: Error: CreateMasteringVoice error: Device Invalidated
+[2019.12.12-23.54.28:158][163]LogInit: Warning: Failed to create the mastering voice for XAudio2
+[2019.12.12-23.54.28:408][164]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{0acbfb97-363f-4163-b45b-ef5190c9380d} was removed. Shutting down audio device.
+[2019.12.12-23.54.28:408][164]LogAudio: Error: GetDeviceCount error: Unhandled error code -2147024809
+[2019.12.12-23.54.28:408][164]LogInit: No audio devices found!
+[2019.12.12-23.54.28:754][165]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.29:101][166]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.29:503][167]LogInit: XAudio2 using 'DELL S2319NX (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.29:883][168]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{9ee5464c-05f0-4e7f-90bb-05cf5803eee6} was removed. Shutting down audio device.
+[2019.12.12-23.54.29:884][168]LogInit: XAudio2 using 'DELL S2319NX (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-23.54.30:171][169]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{bfecbb61-3505-4c92-88ec-5d92db485033} was removed. Shutting down audio device.
+[2019.12.12-23.54.30:171][169]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.58.16:526][707]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.12-23.58.22:315][906]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Shrub.BP_Shrub
+[2019.12.12-23.58.46:135][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-23.58.46:193][744]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.12-23.58.46:329][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.58.46:331][744]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-23.58.46:335][744]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.12-23.58.46:888][744]LogPlayLevel: [PlayLevel] Compiling BP_Shrub before play...
+[2019.12.12-23.58.47:116][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.12.12-23.58.47:116][744]LogPlayLevel: PlayLevel: Blueprint regeneration took 784 ms (2 blueprints)
+[2019.12.12-23.58.47:116][744]PIE: New page: PIE session: Test (Dec 12, 2019, 7:58:47 AM)
+[2019.12.12-23.58.47:116][744]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.12-23.58.47:183][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067501s)
+[2019.12.12-23.58.47:309][744]LogAIModule: Creating AISystem for world Test
+[2019.12.12-23.58.47:394][744]LogPlayLevel: PIE: World Init took: (0.209015s)
+[2019.12.12-23.58.47:394][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.277594s)
+[2019.12.12-23.58.47:465][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.12-23.58.47:509][744]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.58.47:539][744]LogInit: FAudioDevice initialized.
+[2019.12.12-23.58.47:563][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.58.47:607][744]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.12-23.58.47:611][744]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-15.58.47
+[2019.12.12-23.58.47:641][744]LogWorld: Bringing up level for play took: 0.030876
+[2019.12.12-23.58.47:641][744]LogOnline: OSS: Creating online subsystem instance for: :Context_284
+[2019.12.12-23.58.47:888][744]PIE: Play in editor start time for /Game/UEDPIE_0_Test 2.218
+[2019.12.12-23.58.47:889][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.58.49:776][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.58.49:776][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.58.49:776][816]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.12-23.58.49:788][816]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-23.58.49:888][816]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-23.58.49:920][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-23.58.49:920][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.58.50:035][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.12-23.58.50:091][817]LogPlayLevel: Display: Destroying online subsystem :Context_284
+[2019.12.12-23.59.04:203][438]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.12-23.59.35:393][845]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.12-23.59.35:431][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.35:431][845]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-23.59.35:439][845]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.12-23.59.35:694][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.12-23.59.35:695][845]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2019.12.12-23.59.35:695][845]PIE: New page: PIE session: Test (Dec 12, 2019, 7:59:35 AM)
+[2019.12.12-23.59.35:695][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.12-23.59.35:699][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003815s)
+[2019.12.12-23.59.35:700][845]LogAIModule: Creating AISystem for world Test
+[2019.12.12-23.59.35:700][845]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2019.12.12-23.59.35:700][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005464s)
+[2019.12.12-23.59.35:744][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.12-23.59.35:772][845]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.59.35:799][845]LogInit: FAudioDevice initialized.
+[2019.12.12-23.59.35:819][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.59.35:819][845]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.12-23.59.35:821][845]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-15.59.35
+[2019.12.12-23.59.35:821][845]LogWorld: Bringing up level for play took: 0.001135
+[2019.12.12-23.59.35:821][845]LogOnline: OSS: Creating online subsystem instance for: :Context_285
+[2019.12.12-23.59.35:831][845]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.161
+[2019.12.12-23.59.35:831][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.37:279][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.37:279][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.59.37:279][888]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.12-23.59.37:294][888]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-23.59.37:309][888]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-23.59.37:328][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-23.59.37:328][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.37:392][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.12.12-23.59.37:430][889]LogPlayLevel: Display: Destroying online subsystem :Context_285
+[2019.12.12-23.59.44:272][207]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.12-23.59.44:294][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.44:294][207]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.12-23.59.44:302][207]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.12-23.59.44:559][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.12-23.59.44:559][207]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (1 blueprints)
+[2019.12.12-23.59.44:559][207]PIE: New page: PIE session: Test (Dec 12, 2019, 7:59:44 AM)
+[2019.12.12-23.59.44:560][207]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.12-23.59.44:563][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003508s)
+[2019.12.12-23.59.44:564][207]LogAIModule: Creating AISystem for world Test
+[2019.12.12-23.59.44:565][207]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2019.12.12-23.59.44:565][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.004999s)
+[2019.12.12-23.59.44:609][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.12-23.59.44:639][207]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-23.59.44:684][207]LogInit: FAudioDevice initialized.
+[2019.12.12-23.59.44:702][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.59.44:702][207]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.12-23.59.44:704][207]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-15.59.44
+[2019.12.12-23.59.44:704][207]LogWorld: Bringing up level for play took: 0.001089
+[2019.12.12-23.59.44:704][207]LogOnline: OSS: Creating online subsystem instance for: :Context_286
+[2019.12.12-23.59.44:714][207]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.045
+[2019.12.12-23.59.44:715][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.51:724][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.51:724][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-23.59.51:724][481]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.12-23.59.51:741][481]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-23.59.51:755][481]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-23.59.51:773][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-23.59.51:773][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.12-23.59.51:834][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.12-23.59.51:906][482]LogPlayLevel: Display: Destroying online subsystem :Context_286
+[2019.12.13-00.00.08:778][291]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.08:812][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.08:812][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.08:816][291]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.09:099][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.13-00.00.09:099][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 286 ms (1 blueprints)
+[2019.12.13-00.00.09:099][291]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:09 AM)
+[2019.12.13-00.00.09:099][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.09:104][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004287s)
+[2019.12.13-00.00.09:105][291]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.09:106][291]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2019.12.13-00.00.09:106][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.006239s)
+[2019.12.13-00.00.09:150][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.13-00.00.09:177][291]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.09:203][291]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.09:220][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.09:220][291]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.09:223][291]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.09
+[2019.12.13-00.00.09:223][291]LogWorld: Bringing up level for play took: 0.001774
+[2019.12.13-00.00.09:223][291]LogOnline: OSS: Creating online subsystem instance for: :Context_287
+[2019.12.13-00.00.09:233][291]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.437
+[2019.12.13-00.00.09:233][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.10:067][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.10:068][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.10:068][318]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.10:084][318]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.10:097][318]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.10:115][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.10:116][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.10:178][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.12.13-00.00.10:213][319]LogPlayLevel: Display: Destroying online subsystem :Context_287
+[2019.12.13-00.00.14:153][496]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.14:180][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.14:180][496]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.14:184][496]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.14:879][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.13-00.00.14:879][496]LogPlayLevel: PlayLevel: Blueprint regeneration took 698 ms (1 blueprints)
+[2019.12.13-00.00.14:879][496]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:14 AM)
+[2019.12.13-00.00.14:879][496]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.14:883][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
+[2019.12.13-00.00.14:884][496]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.14:884][496]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2019.12.13-00.00.14:884][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005104s)
+[2019.12.13-00.00.14:929][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.13-00.00.14:957][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.14:984][496]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.15:005][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.15:006][496]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.15:007][496]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.15
+[2019.12.13-00.00.15:008][496]LogWorld: Bringing up level for play took: 0.001292
+[2019.12.13-00.00.15:008][496]LogOnline: OSS: Creating online subsystem instance for: :Context_288
+[2019.12.13-00.00.15:017][496]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.348
+[2019.12.13-00.00.15:017][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.17:949][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.17:950][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.17:950][610]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.17:965][610]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.17:979][610]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.17:995][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.17:996][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.18:055][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.12.13-00.00.18:087][611]LogPlayLevel: Display: Destroying online subsystem :Context_288
+[2019.12.13-00.00.21:950][758]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.21:979][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.21:979][758]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.21:983][758]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.22:240][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.12.13-00.00.22:240][758]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2019.12.13-00.00.22:240][758]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:22 AM)
+[2019.12.13-00.00.22:240][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.22:244][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003414s)
+[2019.12.13-00.00.22:245][758]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.22:245][758]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2019.12.13-00.00.22:246][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005249s)
+[2019.12.13-00.00.22:292][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.13-00.00.22:319][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.22:345][758]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.22:367][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.22:367][758]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.22:369][758]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.22
+[2019.12.13-00.00.22:370][758]LogWorld: Bringing up level for play took: 0.001503
+[2019.12.13-00.00.22:370][758]LogOnline: OSS: Creating online subsystem instance for: :Context_289
+[2019.12.13-00.00.22:378][758]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.709
+[2019.12.13-00.00.22:379][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.25:146][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.25:147][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.25:147][862]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.25:168][862]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.25:183][862]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.25:199][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.25:200][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.25:291][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.13-00.00.25:324][863]LogPlayLevel: Display: Destroying online subsystem :Context_289
+[2019.12.13-00.00.29:021][ 42]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.29:043][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.29:044][ 42]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.29:048][ 42]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.29:305][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.13-00.00.29:305][ 42]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2019.12.13-00.00.29:305][ 42]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:29 AM)
+[2019.12.13-00.00.29:306][ 42]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.29:309][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2019.12.13-00.00.29:310][ 42]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.29:311][ 42]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2019.12.13-00.00.29:311][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005158s)
+[2019.12.13-00.00.29:353][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-00.00.29:380][ 42]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.29:408][ 42]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.29:429][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.29:429][ 42]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.29:432][ 42]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.29
+[2019.12.13-00.00.29:432][ 42]LogWorld: Bringing up level for play took: 0.001627
+[2019.12.13-00.00.29:432][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_290
+[2019.12.13-00.00.29:449][ 42]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.22
+[2019.12.13-00.00.29:450][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.32:795][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.32:796][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.32:796][172]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.32:813][172]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.32:826][172]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.32:843][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.32:844][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.32:913][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.13-00.00.32:944][173]LogPlayLevel: Display: Destroying online subsystem :Context_290
+[2019.12.13-00.00.36:701][352]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.36:725][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.36:725][352]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.36:729][352]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.36:995][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.13-00.00.36:995][352]LogPlayLevel: PlayLevel: Blueprint regeneration took 269 ms (1 blueprints)
+[2019.12.13-00.00.36:995][352]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:36 AM)
+[2019.12.13-00.00.36:995][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.36:998][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003434s)
+[2019.12.13-00.00.37:000][352]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.37:000][352]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.12.13-00.00.37:000][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005133s)
+[2019.12.13-00.00.37:046][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.13-00.00.37:072][352]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.37:113][352]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.37:132][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.37:132][352]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.37:134][352]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.37
+[2019.12.13-00.00.37:134][352]LogWorld: Bringing up level for play took: 0.001122
+[2019.12.13-00.00.37:134][352]LogOnline: OSS: Creating online subsystem instance for: :Context_291
+[2019.12.13-00.00.37:143][352]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.527
+[2019.12.13-00.00.37:143][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.41:205][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.41:205][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.41:205][509]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.41:219][509]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.41:231][509]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.41:247][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.41:247][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.41:306][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.13-00.00.41:336][510]LogPlayLevel: Display: Destroying online subsystem :Context_291
+[2019.12.13-00.00.45:740][719]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.45:768][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.45:768][719]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.45:772][719]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.46:034][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.13-00.00.46:034][719]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (1 blueprints)
+[2019.12.13-00.00.46:034][719]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:46 AM)
+[2019.12.13-00.00.46:034][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.46:038][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003762s)
+[2019.12.13-00.00.46:040][719]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.46:040][719]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2019.12.13-00.00.46:040][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005622s)
+[2019.12.13-00.00.46:088][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.13-00.00.46:114][719]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.46:142][719]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.46:166][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.46:166][719]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.46:168][719]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.46
+[2019.12.13-00.00.46:168][719]LogWorld: Bringing up level for play took: 0.001225
+[2019.12.13-00.00.46:169][719]LogOnline: OSS: Creating online subsystem instance for: :Context_292
+[2019.12.13-00.00.46:181][719]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.512
+[2019.12.13-00.00.46:182][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.47:573][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.47:574][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.47:574][771]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.47:590][771]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.47:603][771]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.47:612][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.47:612][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.47:662][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.13-00.00.47:686][772]LogPlayLevel: Display: Destroying online subsystem :Context_292
+[2019.12.13-00.00.52:036][981]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.00.52:062][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.52:063][981]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.00.52:068][981]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.00.52:324][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.13-00.00.52:324][981]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2019.12.13-00.00.52:324][981]PIE: New page: PIE session: Test (Dec 12, 2019, 8:00:52 AM)
+[2019.12.13-00.00.52:324][981]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.00.52:328][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003577s)
+[2019.12.13-00.00.52:329][981]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.00.52:329][981]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2019.12.13-00.00.52:329][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005245s)
+[2019.12.13-00.00.52:375][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.12.13-00.00.52:402][981]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.00.52:429][981]LogInit: FAudioDevice initialized.
+[2019.12.13-00.00.52:450][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.52:451][981]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.00.52:452][981]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.00.52
+[2019.12.13-00.00.52:453][981]LogWorld: Bringing up level for play took: 0.001127
+[2019.12.13-00.00.52:453][981]LogOnline: OSS: Creating online subsystem instance for: :Context_293
+[2019.12.13-00.00.52:463][981]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.793
+[2019.12.13-00.00.52:463][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.56:736][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.56:737][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.00.56:737][153]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.00.56:754][153]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.00.56:766][153]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.00.56:783][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.00.56:783][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.00.56:843][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.13-00.00.56:873][154]LogPlayLevel: Display: Destroying online subsystem :Context_293
+[2019.12.13-00.01.03:115][460]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.01.03:143][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.03:143][460]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.01.03:147][460]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.01.03:602][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.13-00.01.03:602][460]LogPlayLevel: PlayLevel: Blueprint regeneration took 458 ms (1 blueprints)
+[2019.12.13-00.01.03:602][460]PIE: New page: PIE session: Test (Dec 12, 2019, 8:01:03 AM)
+[2019.12.13-00.01.03:602][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.01.03:606][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003569s)
+[2019.12.13-00.01.03:607][460]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.01.03:608][460]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2019.12.13-00.01.03:608][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005582s)
+[2019.12.13-00.01.03:652][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.13-00.01.03:679][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.01.03:705][460]LogInit: FAudioDevice initialized.
+[2019.12.13-00.01.03:726][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.03:727][460]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.01.03:729][460]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.01.03
+[2019.12.13-00.01.03:729][460]LogWorld: Bringing up level for play took: 0.001265
+[2019.12.13-00.01.03:729][460]LogOnline: OSS: Creating online subsystem instance for: :Context_294
+[2019.12.13-00.01.03:740][460]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.071
+[2019.12.13-00.01.03:741][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.12:875][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.12:876][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.12:876][833]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.01.12:890][833]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.01.12:899][833]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.01.12:915][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.01.12:915][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.12:977][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.13-00.01.13:011][834]LogPlayLevel: Display: Destroying online subsystem :Context_294
+[2019.12.13-00.01.25:930][446]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2019.12.13-00.01.34:555][740]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.01.38:380][895]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.01.38:410][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.38:410][895]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.01.38:418][895]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.01.38:674][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.13-00.01.38:674][895]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2019.12.13-00.01.38:674][895]PIE: New page: PIE session: Test (Dec 12, 2019, 8:01:38 AM)
+[2019.12.13-00.01.38:674][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.01.38:678][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
+[2019.12.13-00.01.38:720][895]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.01.38:721][895]LogPlayLevel: PIE: World Init took: (0.042549s)
+[2019.12.13-00.01.38:721][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.046260s)
+[2019.12.13-00.01.38:762][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.12.13-00.01.38:788][895]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.01.38:815][895]LogInit: FAudioDevice initialized.
+[2019.12.13-00.01.38:837][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.38:837][895]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.01.38:840][895]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.01.38
+[2019.12.13-00.01.38:840][895]LogWorld: Bringing up level for play took: 0.001637
+[2019.12.13-00.01.38:840][895]LogOnline: OSS: Creating online subsystem instance for: :Context_296
+[2019.12.13-00.01.38:850][895]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.181
+[2019.12.13-00.01.38:851][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.41:786][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.41:786][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.41:786][999]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.01.41:803][999]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.01.41:816][999]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.01.41:832][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.01.41:832][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.41:896][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.13-00.01.41:939][  0]LogPlayLevel: Display: Destroying online subsystem :Context_296
+[2019.12.13-00.01.47:965][254]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.01.47:994][254]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.47:994][254]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.01.47:999][254]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.01.48:254][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.13-00.01.48:254][254]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2019.12.13-00.01.48:254][254]PIE: New page: PIE session: Test (Dec 12, 2019, 8:01:48 AM)
+[2019.12.13-00.01.48:254][254]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.01.48:258][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003453s)
+[2019.12.13-00.01.48:260][254]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.01.48:260][254]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2019.12.13-00.01.48:260][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005103s)
+[2019.12.13-00.01.48:304][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.13-00.01.48:330][254]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.01.48:357][254]LogInit: FAudioDevice initialized.
+[2019.12.13-00.01.48:377][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.48:377][254]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.01.48:380][254]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.01.48
+[2019.12.13-00.01.48:380][254]LogWorld: Bringing up level for play took: 0.001985
+[2019.12.13-00.01.48:380][254]LogOnline: OSS: Creating online subsystem instance for: :Context_297
+[2019.12.13-00.01.48:392][254]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.722
+[2019.12.13-00.01.48:392][254]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.53:734][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.53:734][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.53:734][460]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.01.53:749][460]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.01.53:763][460]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.01.53:779][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.01.53:780][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.53:852][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.13-00.01.53:882][461]LogPlayLevel: Display: Destroying online subsystem :Context_297
+[2019.12.13-00.01.59:189][714]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.01.59:215][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.01.59:215][714]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.01.59:219][714]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.01.59:530][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.13-00.01.59:530][714]LogPlayLevel: PlayLevel: Blueprint regeneration took 314 ms (1 blueprints)
+[2019.12.13-00.01.59:530][714]PIE: New page: PIE session: Test (Dec 12, 2019, 8:01:59 AM)
+[2019.12.13-00.01.59:530][714]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.01.59:534][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2019.12.13-00.01.59:535][714]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.01.59:535][714]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2019.12.13-00.01.59:535][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005109s)
+[2019.12.13-00.01.59:583][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.13-00.01.59:609][714]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.01.59:636][714]LogInit: FAudioDevice initialized.
+[2019.12.13-00.01.59:657][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.01.59:657][714]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.01.59:659][714]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.01.59
+[2019.12.13-00.01.59:659][714]LogWorld: Bringing up level for play took: 0.001176
+[2019.12.13-00.01.59:659][714]LogOnline: OSS: Creating online subsystem instance for: :Context_298
+[2019.12.13-00.01.59:671][714]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.001
+[2019.12.13-00.01.59:671][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.08:961][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.08:961][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.08:961][ 92]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.02.08:977][ 92]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.02.08:992][ 92]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.02.09:008][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.02.09:008][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.09:077][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.13-00.02.09:120][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_298
+[2019.12.13-00.02.20:086][604]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.02.20:109][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.20:109][604]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.02.20:115][604]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.02.20:375][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.13-00.02.20:375][604]LogPlayLevel: PlayLevel: Blueprint regeneration took 266 ms (1 blueprints)
+[2019.12.13-00.02.20:376][604]PIE: New page: PIE session: Test (Dec 12, 2019, 8:02:20 AM)
+[2019.12.13-00.02.20:376][604]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.02.20:379][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003357s)
+[2019.12.13-00.02.20:380][604]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.02.20:381][604]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2019.12.13-00.02.20:381][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005143s)
+[2019.12.13-00.02.20:425][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.13-00.02.20:451][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.02.20:478][604]LogInit: FAudioDevice initialized.
+[2019.12.13-00.02.20:499][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.20:499][604]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.02.20:501][604]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.02.20
+[2019.12.13-00.02.20:501][604]LogWorld: Bringing up level for play took: 0.001193
+[2019.12.13-00.02.20:501][604]LogOnline: OSS: Creating online subsystem instance for: :Context_299
+[2019.12.13-00.02.20:511][604]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.841
+[2019.12.13-00.02.20:512][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.21:636][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.21:636][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.21:636][643]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.02.21:649][643]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.02.21:657][643]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.02.21:674][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.02.21:674][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.21:734][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.13-00.02.21:765][644]LogPlayLevel: Display: Destroying online subsystem :Context_299
+[2019.12.13-00.02.26:066][853]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.02.26:095][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.26:096][853]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.02.26:102][853]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.02.26:358][853]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.13-00.02.26:358][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (1 blueprints)
+[2019.12.13-00.02.26:358][853]PIE: New page: PIE session: Test (Dec 12, 2019, 8:02:26 AM)
+[2019.12.13-00.02.26:358][853]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.02.26:362][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003303s)
+[2019.12.13-00.02.26:363][853]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.02.26:363][853]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2019.12.13-00.02.26:363][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005049s)
+[2019.12.13-00.02.26:409][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-00.02.26:436][853]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.02.26:462][853]LogInit: FAudioDevice initialized.
+[2019.12.13-00.02.26:482][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.26:482][853]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.02.26:484][853]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.02.26
+[2019.12.13-00.02.26:484][853]LogWorld: Bringing up level for play took: 0.001144
+[2019.12.13-00.02.26:485][853]LogOnline: OSS: Creating online subsystem instance for: :Context_300
+[2019.12.13-00.02.26:508][853]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.839
+[2019.12.13-00.02.26:509][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.27:559][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.27:559][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.27:559][889]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.02.27:572][889]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.02.27:587][889]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.02.27:604][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.02.27:604][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.27:662][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.13-00.02.27:698][890]LogPlayLevel: Display: Destroying online subsystem :Context_300
+[2019.12.13-00.02.31:417][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.02.31:445][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.31:446][ 73]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.02.31:450][ 73]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.02.31:704][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.13-00.02.31:705][ 73]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2019.12.13-00.02.31:705][ 73]PIE: New page: PIE session: Test (Dec 12, 2019, 8:02:31 AM)
+[2019.12.13-00.02.31:705][ 73]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.02.31:708][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003457s)
+[2019.12.13-00.02.31:710][ 73]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.02.31:710][ 73]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2019.12.13-00.02.31:710][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005312s)
+[2019.12.13-00.02.31:755][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.13-00.02.31:780][ 73]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.02.31:806][ 73]LogInit: FAudioDevice initialized.
+[2019.12.13-00.02.31:826][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.31:826][ 73]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.02.31:828][ 73]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.02.31
+[2019.12.13-00.02.31:828][ 73]LogWorld: Bringing up level for play took: 0.001296
+[2019.12.13-00.02.31:828][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_301
+[2019.12.13-00.02.31:837][ 73]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.167
+[2019.12.13-00.02.31:837][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.32:572][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.32:572][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.32:572][ 97]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.02.32:589][ 97]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.02.32:605][ 97]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.02.32:622][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.02.32:623][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.32:684][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.13-00.02.32:717][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_301
+[2019.12.13-00.02.37:659][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.02.37:684][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.37:684][336]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.02.37:688][336]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.02.37:941][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.13-00.02.37:941][336]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2019.12.13-00.02.37:941][336]PIE: New page: PIE session: Test (Dec 12, 2019, 8:02:37 AM)
+[2019.12.13-00.02.37:941][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.02.37:944][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
+[2019.12.13-00.02.37:946][336]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.02.37:946][336]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2019.12.13-00.02.37:946][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005199s)
+[2019.12.13-00.02.37:992][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.13-00.02.38:019][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.02.38:045][336]LogInit: FAudioDevice initialized.
+[2019.12.13-00.02.38:065][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.38:066][336]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.02.38:068][336]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.02.38
+[2019.12.13-00.02.38:068][336]LogWorld: Bringing up level for play took: 0.001224
+[2019.12.13-00.02.38:068][336]LogOnline: OSS: Creating online subsystem instance for: :Context_302
+[2019.12.13-00.02.38:079][336]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.41
+[2019.12.13-00.02.38:080][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.39:078][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.39:080][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.02.39:080][370]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.02.39:122][370]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.02.39:131][370]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.02.39:158][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.02.39:158][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.02.39:214][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.13-00.02.39:245][371]LogPlayLevel: Display: Destroying online subsystem :Context_302
+[2019.12.13-00.03.07:921][693]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.03.07:942][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.03.07:943][693]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.03.07:950][693]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.03.08:204][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.13-00.03.08:204][693]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2019.12.13-00.03.08:204][693]PIE: New page: PIE session: Test (Dec 12, 2019, 8:03:08 AM)
+[2019.12.13-00.03.08:204][693]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.03.08:207][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003313s)
+[2019.12.13-00.03.08:209][693]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.03.08:209][693]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2019.12.13-00.03.08:209][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005110s)
+[2019.12.13-00.03.08:252][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.13-00.03.08:279][693]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.03.08:306][693]LogInit: FAudioDevice initialized.
+[2019.12.13-00.03.08:326][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.03.08:327][693]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.03.08:329][693]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.03.08
+[2019.12.13-00.03.08:329][693]LogWorld: Bringing up level for play took: 0.001847
+[2019.12.13-00.03.08:330][693]LogOnline: OSS: Creating online subsystem instance for: :Context_303
+[2019.12.13-00.03.08:339][693]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.669
+[2019.12.13-00.03.08:340][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.03.16:802][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.03.16:802][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.03.16:802][ 32]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.03.16:816][ 32]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.03.16:825][ 32]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.03.16:840][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.03.16:841][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.03.16:906][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.13-00.03.16:938][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_303
+[2019.12.13-00.03.42:463][ 98]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.13-00.03.48:082][338]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Tree.BP_Tree
+[2019.12.13-00.04.32:544][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.12.13-00.04.32:545][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.13-00.04.33:203][171]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test_Auto18934D77D40802952038D8B8F3472DE91.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto1.umap'
+[2019.12.13-00.04.33:209][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test' took 0.714
+[2019.12.13-00.04.33:209][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.714
+[2019.12.13-00.04.33:213][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Lane] ([1] browsable assets)...
+[2019.12.13-00.04.33:251][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Lane.BP_Lane]
+[2019.12.13-00.04.33:251][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Lane]
+[2019.12.13-00.04.33:469][171]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Lane_Auto170995471467081E46983D69D795108B7.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_Lane_Auto1.uasset'
+[2019.12.13-00.04.33:479][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Shrub] ([1] browsable assets)...
+[2019.12.13-00.04.33:509][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Shrub.BP_Shrub]
+[2019.12.13-00.04.33:509][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Shrub]
+[2019.12.13-00.04.33:527][171]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Shrub_Auto1CA76CE8E4BA47776F9F6B4BA58416735.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_Shrub_Auto1.uasset'
+[2019.12.13-00.04.33:531][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Tree] ([1] browsable assets)...
+[2019.12.13-00.04.33:555][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Tree.BP_Tree]
+[2019.12.13-00.04.33:556][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tree]
+[2019.12.13-00.04.33:578][171]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Tree_Auto1B0B6969A4181856F6F5DBA962340304D.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_Tree_Auto1.uasset'
+[2019.12.13-00.04.33:581][171]LogFileHelpers: Auto-saving content packages took 0.370
+[2019.12.13-00.06.16:277][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-00.06.16:330][811]BlueprintLog: New page: Compile BP_Shrub
+[2019.12.13-00.06.16:588][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.13-00.06.18:039][862]BlueprintLog: New page: Compile BP_Tree
+[2019.12.13-00.06.18:264][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.13-00.06.19:844][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tree" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Tree.uasset" SILENT=true
+[2019.12.13-00.06.19:862][897]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_TreeEAB1007E4DBB23381DF7A494285FD3FE.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Tree.uasset'
+[2019.12.13-00.06.36:054][570]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.13-00.06.47:616][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.06.47:650][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.06.47:651][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.06.47:656][ 94]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.06.47:832][ 94]LogBlueprint: Error: [Compiler BP_Lane] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.13-00.06.47:832][ 94]LogBlueprint: Error: [Compiler BP_Lane] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.12.13-00.06.48:074][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.13-00.06.48:074][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 424 ms (1 blueprints)
+[2019.12.13-00.06.48:074][ 94]BlueprintLog: Warning: Blueprint failed to compile:  BP_Lane
+[2019.12.13-00.06.48:098][ 94]LogCustomDialog: Dialog displayed:
+[2019.12.13-00.06.50:884][ 94]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.13-00.06.54:777][256]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-00.06.54:797][256]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-00.07.25:423][602]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.07.25:459][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.25:460][602]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.07.25:466][602]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.07.25:772][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.12.13-00.07.25:772][602]LogPlayLevel: PlayLevel: Blueprint regeneration took 313 ms (1 blueprints)
+[2019.12.13-00.07.25:773][602]PIE: New page: PIE session: Test (Dec 12, 2019, 8:07:25 AM)
+[2019.12.13-00.07.25:773][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.07.25:778][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005411s)
+[2019.12.13-00.07.25:780][602]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.07.25:780][602]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2019.12.13-00.07.25:780][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.007234s)
+[2019.12.13-00.07.25:842][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.13-00.07.25:871][602]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.07.25:907][602]LogInit: FAudioDevice initialized.
+[2019.12.13-00.07.25:925][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.25:925][602]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.07.25:927][602]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.07.25
+[2019.12.13-00.07.25:927][602]LogWorld: Bringing up level for play took: 0.001292
+[2019.12.13-00.07.25:927][602]LogOnline: OSS: Creating online subsystem instance for: :Context_306
+[2019.12.13-00.07.25:937][602]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.267
+[2019.12.13-00.07.25:938][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.27:598][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.27:598][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.27:599][655]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.07.27:611][655]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.07.27:621][655]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.07.27:630][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.07.27:630][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.27:684][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.13-00.07.27:728][656]LogPlayLevel: Display: Destroying online subsystem :Context_306
+[2019.12.13-00.07.43:297][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.07.43:331][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.43:331][298]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.07.43:335][298]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.07.43:596][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.13-00.07.43:596][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 264 ms (1 blueprints)
+[2019.12.13-00.07.43:596][298]PIE: New page: PIE session: Test (Dec 12, 2019, 8:07:43 AM)
+[2019.12.13-00.07.43:596][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.07.43:600][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2019.12.13-00.07.43:601][298]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.07.43:602][298]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2019.12.13-00.07.43:602][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005694s)
+[2019.12.13-00.07.43:646][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.12.13-00.07.43:672][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.07.43:700][298]LogInit: FAudioDevice initialized.
+[2019.12.13-00.07.43:731][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.43:731][298]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.07.43:734][298]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.07.43
+[2019.12.13-00.07.43:734][298]LogWorld: Bringing up level for play took: 0.001582
+[2019.12.13-00.07.43:734][298]LogOnline: OSS: Creating online subsystem instance for: :Context_307
+[2019.12.13-00.07.43:745][298]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.075
+[2019.12.13-00.07.43:746][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.45:761][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.45:761][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.45:761][363]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.07.45:775][363]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.07.45:786][363]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.07.45:803][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.07.45:803][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.45:870][363]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.12.13-00.07.45:929][364]LogPlayLevel: Display: Destroying online subsystem :Context_307
+[2019.12.13-00.07.51:890][638]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.07.51:924][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.51:924][638]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.07.51:928][638]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.07.52:191][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.13-00.07.52:191][638]LogPlayLevel: PlayLevel: Blueprint regeneration took 266 ms (1 blueprints)
+[2019.12.13-00.07.52:192][638]PIE: New page: PIE session: Test (Dec 12, 2019, 8:07:52 AM)
+[2019.12.13-00.07.52:192][638]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.07.52:195][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003437s)
+[2019.12.13-00.07.52:196][638]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.07.52:197][638]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2019.12.13-00.07.52:197][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005137s)
+[2019.12.13-00.07.52:242][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.13-00.07.52:268][638]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.07.52:294][638]LogInit: FAudioDevice initialized.
+[2019.12.13-00.07.52:316][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.52:316][638]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.07.52:318][638]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.07.52
+[2019.12.13-00.07.52:318][638]LogWorld: Bringing up level for play took: 0.001130
+[2019.12.13-00.07.52:318][638]LogOnline: OSS: Creating online subsystem instance for: :Context_308
+[2019.12.13-00.07.52:328][638]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.658
+[2019.12.13-00.07.52:328][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.54:080][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.54:081][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.07.54:081][695]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.07.54:098][695]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.07.54:112][695]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.07.54:126][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.07.54:127][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.07.54:197][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.13-00.07.54:260][696]LogPlayLevel: Display: Destroying online subsystem :Context_308
+[2019.12.13-00.08.05:182][182]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.08.05:221][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.05:221][182]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.08.05:225][182]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.08.05:484][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.13-00.08.05:484][182]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2019.12.13-00.08.05:484][182]PIE: New page: PIE session: Test (Dec 12, 2019, 8:08:05 AM)
+[2019.12.13-00.08.05:485][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.08.05:569][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083737s)
+[2019.12.13-00.08.05:570][182]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.08.05:571][182]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.12.13-00.08.05:571][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.085462s)
+[2019.12.13-00.08.05:617][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-00.08.05:643][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.08.05:672][182]LogInit: FAudioDevice initialized.
+[2019.12.13-00.08.05:692][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.05:692][182]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.08.05:694][182]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.08.05
+[2019.12.13-00.08.05:695][182]LogWorld: Bringing up level for play took: 0.001894
+[2019.12.13-00.08.05:695][182]LogOnline: OSS: Creating online subsystem instance for: :Context_309
+[2019.12.13-00.08.05:704][182]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.034
+[2019.12.13-00.08.05:705][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.07:538][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.07:538][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.07:539][242]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.08.07:553][242]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.08.07:570][242]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.08.07:583][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.08.07:583][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.07:653][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.13-00.08.07:715][243]LogPlayLevel: Display: Destroying online subsystem :Context_309
+[2019.12.13-00.08.13:096][483]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.08.13:124][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.13:124][483]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.08.13:128][483]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.08.13:389][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.13-00.08.13:389][483]LogPlayLevel: PlayLevel: Blueprint regeneration took 264 ms (1 blueprints)
+[2019.12.13-00.08.13:389][483]PIE: New page: PIE session: Test (Dec 12, 2019, 8:08:13 AM)
+[2019.12.13-00.08.13:389][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.08.13:393][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003329s)
+[2019.12.13-00.08.13:394][483]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.08.13:394][483]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2019.12.13-00.08.13:394][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.004872s)
+[2019.12.13-00.08.13:437][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.13-00.08.13:464][483]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.08.13:490][483]LogInit: FAudioDevice initialized.
+[2019.12.13-00.08.13:511][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.13:511][483]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.08.13:513][483]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.08.13
+[2019.12.13-00.08.13:513][483]LogWorld: Bringing up level for play took: 0.001170
+[2019.12.13-00.08.13:513][483]LogOnline: OSS: Creating online subsystem instance for: :Context_310
+[2019.12.13-00.08.13:522][483]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.147
+[2019.12.13-00.08.13:523][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.15:801][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.15:802][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.15:802][560]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.08.15:817][560]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.08.15:833][560]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.08.15:851][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.08.15:851][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.15:919][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.13-00.08.15:979][561]LogPlayLevel: Display: Destroying online subsystem :Context_310
+[2019.12.13-00.08.16:679][592]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.08.16:716][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.16:716][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-00.08.16:716][592]PIE: New page: PIE session: Test (Dec 12, 2019, 8:08:16 AM)
+[2019.12.13-00.08.16:716][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.08.16:720][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003552s)
+[2019.12.13-00.08.16:721][592]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.08.16:738][592]LogPlayLevel: PIE: World Init took: (0.018114s)
+[2019.12.13-00.08.16:738][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.021850s)
+[2019.12.13-00.08.16:780][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.13-00.08.16:807][592]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.08.16:835][592]LogInit: FAudioDevice initialized.
+[2019.12.13-00.08.16:854][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.16:855][592]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.08.16:857][592]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.08.16
+[2019.12.13-00.08.16:857][592]LogWorld: Bringing up level for play took: 0.001777
+[2019.12.13-00.08.16:858][592]LogOnline: OSS: Creating online subsystem instance for: :Context_311
+[2019.12.13-00.08.16:869][592]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.801
+[2019.12.13-00.08.16:869][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.23:791][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.23:792][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.08.23:792][835]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.08.23:811][835]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.08.23:840][835]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.08.23:850][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.08.23:850][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.08.23:921][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.12.13-00.08.23:963][836]LogPlayLevel: Display: Destroying online subsystem :Context_311
+[2019.12.13-00.09.16:939][ 46]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.13-00.10.54:971][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.13-00.11.01:713][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.BP_Rock:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.SKEL_BP_Rock_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.BP_Rock_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.BP_Rock:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.BP_Rock:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:724][801]LogMetaData: Removing '/Game/Blueprints/BP_Rock.BP_Rock:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.12.13-00.11.01:858][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rock" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset" SILENT=true
+[2019.12.13-00.11.01:894][801]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Rock1FFDDC3645331C81FCF82DBE23EE6561.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset'
+[2019.12.13-00.11.02:258][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.13-00.11.02:324][801]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2019.12.13-00.11.02:364][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.13-00.11.05:079][888]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Rock.BP_Rock
+[2019.12.13-00.11.24:606][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-00.11.40:154][294]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.13-00.11.53:750][830]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.11.53:790][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.11.53:790][830]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.11.53:794][830]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.11.54:030][830]LogPlayLevel: [PlayLevel] Compiling BP_Shrub before play...
+[2019.12.13-00.11.54:219][830]LogPlayLevel: [PlayLevel] Compiling BP_Rock before play...
+[2019.12.13-00.11.54:478][830]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.13-00.11.54:478][830]LogPlayLevel: PlayLevel: Blueprint regeneration took 688 ms (3 blueprints)
+[2019.12.13-00.11.54:478][830]PIE: New page: PIE session: Test (Dec 12, 2019, 8:11:54 AM)
+[2019.12.13-00.11.54:478][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.11.54:482][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003787s)
+[2019.12.13-00.11.54:483][830]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.11.54:484][830]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2019.12.13-00.11.54:484][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005470s)
+[2019.12.13-00.11.54:529][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.13-00.11.54:560][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.11.54:585][830]LogInit: FAudioDevice initialized.
+[2019.12.13-00.11.54:606][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.11.54:607][830]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.11.54:609][830]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.11.54
+[2019.12.13-00.11.54:610][830]LogWorld: Bringing up level for play took: 0.002004
+[2019.12.13-00.11.54:610][830]LogOnline: OSS: Creating online subsystem instance for: :Context_314
+[2019.12.13-00.11.54:629][830]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.959
+[2019.12.13-00.11.54:629][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.00:879][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.00:880][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.00:880][ 28]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.12.00:894][ 28]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.12.00:907][ 28]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.12.00:923][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.12.00:923][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.01:005][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.13-00.12.01:068][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_314
+[2019.12.13-00.12.07:816][311]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.12.07:856][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.07:856][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.12.07:864][311]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.12.08:153][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.12.13-00.12.08:153][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 296 ms (1 blueprints)
+[2019.12.13-00.12.08:153][311]PIE: New page: PIE session: Test (Dec 12, 2019, 8:12:08 AM)
+[2019.12.13-00.12.08:153][311]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.12.08:157][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003959s)
+[2019.12.13-00.12.08:158][311]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.12.08:159][311]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2019.12.13-00.12.08:159][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005504s)
+[2019.12.13-00.12.08:206][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.13-00.12.08:233][311]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.12.08:258][311]LogInit: FAudioDevice initialized.
+[2019.12.13-00.12.08:280][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.08:280][311]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.12.08:282][311]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.12.08
+[2019.12.13-00.12.08:283][311]LogWorld: Bringing up level for play took: 0.001250
+[2019.12.13-00.12.08:283][311]LogOnline: OSS: Creating online subsystem instance for: :Context_315
+[2019.12.13-00.12.08:293][311]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.624
+[2019.12.13-00.12.08:294][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.10:716][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.10:716][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.10:716][381]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.12.10:733][381]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.12.10:740][381]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.12.10:751][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.12.10:751][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.10:811][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.12.13-00.12.10:851][382]LogPlayLevel: Display: Destroying online subsystem :Context_315
+[2019.12.13-00.12.18:639][696]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.12.18:676][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.18:676][696]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.12.18:681][696]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.12.18:962][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.13-00.12.18:962][696]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2019.12.13-00.12.18:962][696]PIE: New page: PIE session: Test (Dec 12, 2019, 8:12:18 AM)
+[2019.12.13-00.12.18:962][696]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.12.18:966][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004027s)
+[2019.12.13-00.12.18:968][696]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.12.18:968][696]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2019.12.13-00.12.18:968][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005718s)
+[2019.12.13-00.12.19:018][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.13-00.12.19:045][696]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.12.19:070][696]LogInit: FAudioDevice initialized.
+[2019.12.13-00.12.19:093][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.19:093][696]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.12.19:095][696]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.12.19
+[2019.12.13-00.12.19:095][696]LogWorld: Bringing up level for play took: 0.001220
+[2019.12.13-00.12.19:096][696]LogOnline: OSS: Creating online subsystem instance for: :Context_316
+[2019.12.13-00.12.19:105][696]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.435
+[2019.12.13-00.12.19:105][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.23:665][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.23:666][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.23:666][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.12.23:682][851]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.12.23:698][851]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.12.23:716][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.12.23:716][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.23:785][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.13-00.12.23:831][852]LogPlayLevel: Display: Destroying online subsystem :Context_316
+[2019.12.13-00.12.29:793][111]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.12.29:831][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.29:831][111]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.12.29:835][111]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.12.30:121][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.12.13-00.12.30:121][111]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2019.12.13-00.12.30:121][111]PIE: New page: PIE session: Test (Dec 12, 2019, 8:12:30 AM)
+[2019.12.13-00.12.30:121][111]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.12.30:125][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003497s)
+[2019.12.13-00.12.30:126][111]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.12.30:127][111]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2019.12.13-00.12.30:127][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005440s)
+[2019.12.13-00.12.30:179][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.13-00.12.30:205][111]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.12.30:228][111]LogInit: FAudioDevice initialized.
+[2019.12.13-00.12.30:249][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.30:250][111]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.12.30:252][111]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.12.30
+[2019.12.13-00.12.30:252][111]LogWorld: Bringing up level for play took: 0.001717
+[2019.12.13-00.12.30:253][111]LogOnline: OSS: Creating online subsystem instance for: :Context_317
+[2019.12.13-00.12.30:265][111]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.595
+[2019.12.13-00.12.30:265][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.35:171][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.35:172][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.35:173][278]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.12.35:193][278]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.12.35:202][278]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.12.35:212][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.12.35:212][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.35:269][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.13-00.12.35:309][279]LogPlayLevel: Display: Destroying online subsystem :Context_317
+[2019.12.13-00.12.46:503][774]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.12.46:543][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.46:543][774]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.12.46:547][774]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.12.46:827][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.13-00.12.46:827][774]LogPlayLevel: PlayLevel: Blueprint regeneration took 284 ms (1 blueprints)
+[2019.12.13-00.12.46:827][774]PIE: New page: PIE session: Test (Dec 12, 2019, 8:12:46 AM)
+[2019.12.13-00.12.46:828][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.12.46:831][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003405s)
+[2019.12.13-00.12.46:832][774]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.12.46:833][774]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2019.12.13-00.12.46:833][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005089s)
+[2019.12.13-00.12.46:887][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.13-00.12.46:913][774]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.12.46:939][774]LogInit: FAudioDevice initialized.
+[2019.12.13-00.12.46:960][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.46:962][774]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.12.46:964][774]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.12.46
+[2019.12.13-00.12.46:965][774]LogWorld: Bringing up level for play took: 0.002891
+[2019.12.13-00.12.46:965][774]LogOnline: OSS: Creating online subsystem instance for: :Context_318
+[2019.12.13-00.12.46:975][774]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.306
+[2019.12.13-00.12.46:975][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.49:813][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.49:814][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.49:814][866]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.12.49:827][866]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.12.49:841][866]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.12.49:859][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.12.49:860][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.49:936][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.12.13-00.12.49:974][867]LogPlayLevel: Display: Destroying online subsystem :Context_318
+[2019.12.13-00.12.56:670][162]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.12.56:709][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.12.56:709][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.12.56:713][162]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.12.56:996][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.12.13-00.12.56:996][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2019.12.13-00.12.56:997][162]PIE: New page: PIE session: Test (Dec 12, 2019, 8:12:56 AM)
+[2019.12.13-00.12.56:997][162]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.12.57:001][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004004s)
+[2019.12.13-00.12.57:002][162]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.12.57:003][162]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2019.12.13-00.12.57:003][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005877s)
+[2019.12.13-00.12.57:054][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.13-00.12.57:082][162]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.12.57:131][162]LogInit: FAudioDevice initialized.
+[2019.12.13-00.12.57:153][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.12.57:154][162]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.12.57:155][162]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.12.57
+[2019.12.13-00.12.57:156][162]LogWorld: Bringing up level for play took: 0.001156
+[2019.12.13-00.12.57:156][162]LogOnline: OSS: Creating online subsystem instance for: :Context_319
+[2019.12.13-00.12.57:168][162]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.501
+[2019.12.13-00.12.57:169][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.03:125][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.03:126][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.03:126][365]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.13.03:142][365]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.13.03:155][365]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.13.03:172][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.13.03:172][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.03:252][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.12.13-00.13.03:290][366]LogPlayLevel: Display: Destroying online subsystem :Context_319
+[2019.12.13-00.13.10:267][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.13.10:302][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.10:303][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.13.10:306][675]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.13.10:582][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.13-00.13.10:582][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2019.12.13-00.13.10:583][675]PIE: New page: PIE session: Test (Dec 12, 2019, 8:13:10 AM)
+[2019.12.13-00.13.10:583][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.13.10:586][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003553s)
+[2019.12.13-00.13.10:588][675]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.13.10:588][675]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2019.12.13-00.13.10:588][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005623s)
+[2019.12.13-00.13.10:640][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.13-00.13.10:666][675]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.13.10:689][675]LogInit: FAudioDevice initialized.
+[2019.12.13-00.13.10:707][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.10:707][675]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.13.10:709][675]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.13.10
+[2019.12.13-00.13.10:709][675]LogWorld: Bringing up level for play took: 0.001276
+[2019.12.13-00.13.10:709][675]LogOnline: OSS: Creating online subsystem instance for: :Context_320
+[2019.12.13-00.13.10:718][675]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.048
+[2019.12.13-00.13.10:718][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.12:022][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.12:023][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.12:023][713]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.13.12:084][713]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.13.12:094][713]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.13.12:114][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.13.12:115][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.12:184][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.13-00.13.12:225][714]LogPlayLevel: Display: Destroying online subsystem :Context_320
+[2019.12.13-00.13.17:155][923]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.13.17:188][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.17:188][923]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.13.17:194][923]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.13.17:472][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.12.13-00.13.17:472][923]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2019.12.13-00.13.17:472][923]PIE: New page: PIE session: Test (Dec 12, 2019, 8:13:17 AM)
+[2019.12.13-00.13.17:472][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.13.17:476][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003856s)
+[2019.12.13-00.13.17:477][923]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.13.17:478][923]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2019.12.13-00.13.17:478][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005683s)
+[2019.12.13-00.13.17:524][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.13-00.13.17:552][923]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.13.17:576][923]LogInit: FAudioDevice initialized.
+[2019.12.13-00.13.17:595][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.17:596][923]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.13.17:598][923]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.13.17
+[2019.12.13-00.13.17:598][923]LogWorld: Bringing up level for play took: 0.001368
+[2019.12.13-00.13.17:598][923]LogOnline: OSS: Creating online subsystem instance for: :Context_321
+[2019.12.13-00.13.17:611][923]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.058
+[2019.12.13-00.13.17:611][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.20:102][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.20:102][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.20:102][  5]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.13.20:117][  5]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.13.20:132][  5]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.13.20:142][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.13.20:142][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.20:203][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.13-00.13.20:239][  6]LogPlayLevel: Display: Destroying online subsystem :Context_321
+[2019.12.13-00.13.20:942][ 34]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.13.20:975][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.20:975][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-00.13.20:975][ 34]PIE: New page: PIE session: Test (Dec 12, 2019, 8:13:20 AM)
+[2019.12.13-00.13.20:975][ 34]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.13.20:979][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003750s)
+[2019.12.13-00.13.20:980][ 34]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.13.20:980][ 34]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2019.12.13-00.13.20:980][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005280s)
+[2019.12.13-00.13.21:032][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.13-00.13.21:059][ 34]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.13.21:082][ 34]LogInit: FAudioDevice initialized.
+[2019.12.13-00.13.21:097][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.21:098][ 34]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.13.21:100][ 34]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.13.21
+[2019.12.13-00.13.21:100][ 34]LogWorld: Bringing up level for play took: 0.001300
+[2019.12.13-00.13.21:100][ 34]LogOnline: OSS: Creating online subsystem instance for: :Context_322
+[2019.12.13-00.13.21:114][ 34]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.555
+[2019.12.13-00.13.21:115][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.22:777][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.22:779][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.22:780][ 86]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.13.22:795][ 86]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.13.22:813][ 86]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.13.22:830][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.13.22:831][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.22:906][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.12.13-00.13.22:944][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_322
+[2019.12.13-00.13.24:408][147]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.13.24:456][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.24:456][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-00.13.24:456][147]PIE: New page: PIE session: Test (Dec 12, 2019, 8:13:24 AM)
+[2019.12.13-00.13.24:457][147]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.13.24:461][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003974s)
+[2019.12.13-00.13.24:462][147]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.13.24:462][147]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2019.12.13-00.13.24:462][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005746s)
+[2019.12.13-00.13.24:515][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-00.13.24:542][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.13.24:565][147]LogInit: FAudioDevice initialized.
+[2019.12.13-00.13.24:582][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.24:582][147]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.13.24:584][147]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.13.24
+[2019.12.13-00.13.24:584][147]LogWorld: Bringing up level for play took: 0.001564
+[2019.12.13-00.13.24:585][147]LogOnline: OSS: Creating online subsystem instance for: :Context_323
+[2019.12.13-00.13.24:597][147]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.927
+[2019.12.13-00.13.24:597][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.25:531][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.25:533][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.25:533][174]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.13.25:546][174]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.13.25:560][174]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.13.25:578][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.13.25:579][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.25:646][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.13-00.13.25:680][175]LogPlayLevel: Display: Destroying online subsystem :Context_323
+[2019.12.13-00.13.37:379][679]LogEditorTransaction: Undo Split Struct Pin
+[2019.12.13-00.13.57:330][524]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-00.13.57:365][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.13.57:365][524]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-00.13.57:369][524]LogPlayLevel: [PlayLevel] Compiling BP_Lane before play...
+[2019.12.13-00.13.57:751][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.13-00.13.57:752][524]LogPlayLevel: PlayLevel: Blueprint regeneration took 386 ms (1 blueprints)
+[2019.12.13-00.13.57:752][524]PIE: New page: PIE session: Test (Dec 12, 2019, 8:13:57 AM)
+[2019.12.13-00.13.57:752][524]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-00.13.57:756][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004113s)
+[2019.12.13-00.13.57:757][524]LogAIModule: Creating AISystem for world Test
+[2019.12.13-00.13.57:758][524]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2019.12.13-00.13.57:758][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005971s)
+[2019.12.13-00.13.57:809][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.13-00.13.57:837][524]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-00.13.57:862][524]LogInit: FAudioDevice initialized.
+[2019.12.13-00.13.57:883][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.13.57:884][524]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-00.13.57:886][524]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.12-16.13.57
+[2019.12.13-00.13.57:886][524]LogWorld: Bringing up level for play took: 0.001618
+[2019.12.13-00.13.57:886][524]LogOnline: OSS: Creating online subsystem instance for: :Context_324
+[2019.12.13-00.13.57:901][524]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.232
+[2019.12.13-00.13.57:902][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.14.04:328][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.14.04:328][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-00.14.04:328][750]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-00.14.04:346][750]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-00.14.04:355][750]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-00.14.04:376][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-00.14.04:376][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-00.14.04:443][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.13-00.14.04:480][751]LogPlayLevel: Display: Destroying online subsystem :Context_324
+[2019.12.13-00.14.05:611][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Lane" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Lane.uasset" SILENT=true
+[2019.12.13-00.14.05:731][797]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Lane1D87B5354225B78A65A9539DF348A43A.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Lane.uasset'
+[2019.12.13-00.14.07:963][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-00.14.08:241][891]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-00.14.08:259][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-00.14.08:311][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.13-00.14.08:569][891]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test0727B82441F95A97E0D496B8AE871F10.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap'
+[2019.12.13-00.14.08:602][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_BuiltData" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test_BuiltData.uasset" SILENT=true
+[2019.12.13-00.14.08:742][891]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test_BuiltDataDBCC765B46FC11825D3884B9A3E7BDD9.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test_BuiltData.uasset'
+[2019.12.13-00.14.10:099][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rock" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset" SILENT=true
+[2019.12.13-00.14.10:166][935]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Rock6619B3C245DAEC960DC9968D5A79122A.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset'
+[2019.12.13-00.14.11:457][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rock" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset" SILENT=true
+[2019.12.13-00.14.11:521][976]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_Rock440EE4924C0538A865AF4581D7B3A889.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_Rock.uasset'

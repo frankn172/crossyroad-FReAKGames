@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 11/22/19 10:26:14
+=======
+﻿Log file open, 12/13/19 08:49:04
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: CrossyRoad
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.141646
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.096014
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -121,7 +130,11 @@ LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
+<<<<<<< Updated upstream
 LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+=======
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+>>>>>>> Stashed changes
 LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
@@ -157,6 +170,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2019.11.22-18.26.15:272][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.22-18.26.15:272][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.11.22-18.26.15:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/livel/OneDrive - Cal State Fullerton/2019 Fall/CPSC 386/Projects/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
@@ -529,3 +543,1220 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-18.36.05:079][609]LogSlate: Took 0.000626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.11.22-18.36.28:532][609]LogSlate: Window 'Pick Parent Class' being destroyed
 [2019.11.22-18.36.32:252][684]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C9D22C30-4A7F-4C1F-D95B-E886CB59D378}
+=======
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:268][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.13-16.49.05:268][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.13-16.49.05:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:269][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:272][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-16.49.05:272][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-16.49.05:273][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-16.49.05:273][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-16.49.05:273][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.13-16.49.05:277][  0]LogHAL: Display: Platform has ~ 8 GB [8476856320 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.13-16.49.05:277][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.13-16.49.05:277][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-16.49.05:277][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-16.49.05:278][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.13-16.49.05:279][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.13-16.49.05:279][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.13-16.49.05:279][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Config/Windows/Engine.ini]
+[2019.12.13-16.49.05:279][  0]LogInit: Computer: LAPTOP-B4LMU3U3
+[2019.12.13-16.49.05:279][  0]LogInit: User: Hyrek
+[2019.12.13-16.49.05:279][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.13-16.49.05:279][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.13-16.49.05:279][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.13-16.49.05:279][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.13-16.49.05:279][  0]LogMemory: Process Physical Memory: 100.64 MB used, 100.64 MB peak
+[2019.12.13-16.49.05:279][  0]LogMemory: Process Virtual Memory: 100.02 MB used, 100.02 MB peak
+[2019.12.13-16.49.05:279][  0]LogMemory: Physical Memory: 5859.76 MB used,  2224.40 MB free, 8084.16 MB total
+[2019.12.13-16.49.05:279][  0]LogMemory: Virtual Memory: 4655.74 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.13-16.49.05:286][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.13-16.49.05:317][  0]LogInit: Using OS detected language (en-US).
+[2019.12.13-16.49.05:317][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.13-16.49.05:318][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.13-16.49.05:507][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.13-16.49.05:620][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.13-16.49.05:620][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.13-16.49.05:878][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.12.13-16.49.05:878][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.13-16.49.05:898][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.13-16.49.05:898][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.13-16.49.05:938][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX 560' (Feature Level 11_0)
+[2019.12.13-16.49.05:938][  0]LogD3D11RHI:       4044/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.12.13-16.49.05:941][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.13-16.49.05:941][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.13-16.49.05:941][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.12.13-16.49.05:955][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.13-16.49.05:955][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.12.13-16.49.05:955][  0]LogWindows: EnumDisplayDevices:
+[2019.12.13-16.49.05:955][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.13-16.49.05:956][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.13-16.49.05:956][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.13-16.49.05:957][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.13-16.49.05:957][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX 560
+[2019.12.13-16.49.05:957][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.13-16.49.05:957][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.13-16.49.05:957][  0]LogRHI: Texture pool is 2831 MB (70% of 4044 MB)
+[2019.12.13-16.49.06:011][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.13-16.49.06:023][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.12.13-16.49.06:706][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.13-16.49.06:716][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.13-16.49.06:728][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.13-16.49.06:739][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.13-16.49.06:753][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.13-16.49.06:765][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.13-16.49.06:776][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.13-16.49.06:787][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.13-16.49.06:793][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.13-16.49.06:833][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.13-16.49.06:837][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.13-16.49.06:861][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.13-16.49.06:861][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.13-16.49.06:880][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.13-16.49.06:880][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.13-16.49.06:889][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.13-16.49.06:898][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.13-16.49.06:908][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.13-16.49.06:919][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.13-16.49.06:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.13-16.49.06:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.13-16.49.06:950][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.13-16.49.06:962][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.13-16.49.07:041][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Intermediate/Shaders/WorkingDirectory/19584/).
+[2019.12.13-16.49.07:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hyrek/AppData/Local/Temp/UnrealShaderWorkingDir/5761303642C1E3082B806A9F3CB776B7/'.
+[2019.12.13-16.49.07:045][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.13-16.49.07:045][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.13-16.49.07:045][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.13-16.49.07:745][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/Hyrek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hyrek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-16.49.07:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.13-16.49.07:832][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.13-16.49.07:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-16.49.07:832][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.13-16.49.07:833][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hyrek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.13-16.49.07:833][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.13-16.49.07:833][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.13-16.49.07:858][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.13-16.49.07:861][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.13-16.49.07:861][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.13-16.49.07:941][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2019.12.13-16.49.08:236][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-16.49.08:426][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.13-16.49.08:426][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.13-16.49.08:426][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.13-16.49.08:426][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.13-16.49.08:426][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.13-16.49.08:438][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3055071226)
+[2019.12.13-16.49.09:487][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.428952 seconds
+[2019.12.13-16.49.09:495][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.13-16.49.09:495][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.13-16.49.09:495][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.13-16.49.10:737][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.13-16.49.10:740][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.13-16.49.10:807][  0]SourceControl: Source control is disabled
+[2019.12.13-16.49.10:807][  0]SourceControl: Source control is disabled
+[2019.12.13-16.49.10:809][  0]SourceControl: Source control is disabled
+[2019.12.13-16.49.10:811][  0]SourceControl: Source control is disabled
+[2019.12.13-16.49.10:935][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.13-16.49.11:085][  0]LogOcInput: OculusInput pre-init called
+[2019.12.13-16.49.11:095][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.13-16.49.11:095][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.13-16.49.11:174][  0]LogEngine: Initializing Engine...
+[2019.12.13-16.49.11:179][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.12.13-16.49.11:180][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.13-16.49.11:481][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.13-16.49.11:501][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.13-16.49.11:527][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.49.11:613][  0]LogInit: FAudioDevice initialized.
+[2019.12.13-16.49.11:613][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.13-16.49.12:075][  0]LogDerivedDataCache: Saved boot cache 0.46s 73MB C:/Users/Hyrek/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-16.49.12:076][  0]LogInit: Texture streaming: Enabled
+[2019.12.13-16.49.12:327][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.13-16.49.12:327][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.13-16.49.12:410][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.13-16.49.12:568][  0]LogInit: Transaction tracking system initialized
+[2019.12.13-16.49.12:613][  0]BlueprintLog: New page: Editor Load
+[2019.12.13-16.49.12:725][  0]LocalizationService: Localization service is disabled
+[2019.12.13-16.49.13:306][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.13-16.49.13:307][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.13-16.49.13:567][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/' took 0.15s
+[2019.12.13-16.49.13:567][  0]SourceControl: Source control is disabled
+[2019.12.13-16.49.13:568][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-16.49.13:568][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.13-16.49.13:590][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-16.49.13:591][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.29ms to complete.
+[2019.12.13-16.49.13:591][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.023
+[2019.12.13-16.49.16:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.49.16:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.49.16:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.49.16:442][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.49.16:841][  0]LogCollectionManager: Loaded 0 collections in 0.002735 seconds
+[2019.12.13-16.49.17:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Collections/' took 0.00s
+[2019.12.13-16.49.17:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Developers/Hyrek/Collections/' took 0.00s
+[2019.12.13-16.49.17:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Collections/' took 0.00s
+[2019.12.13-16.49.17:405][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000019 seconds
+[2019.12.13-16.49.17:420][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2863 classes and 680 folders.
+[2019.12.13-16.49.17:718][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.13-16.49.21:234][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.13-16.49.21:548][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.13-16.49.23:530][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.13-16.49.23:556][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.13-16.49.23:764][  0]LogSlate: Took 0.038919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.13-16.49.25:735][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.12.13-16.49.27:399][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.13-16.49.27:400][  0]LogLoad: (Engine Initialization) Total time: 25.34 seconds
+[2019.12.13-16.49.27:400][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.13-16.49.27:810][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.13-16.49.33:515][  9]LogSlate: Took 0.109936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-16.49.33:637][ 10]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/' took 6.21s
+[2019.12.13-16.49.36:891][ 19]LogAssetRegistry: Asset discovery search completed in 28.9511 seconds
+[2019.12.13-16.49.36:896][ 19]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.12.13-16.49.36:896][ 19]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.12.13-16.52.06:514][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-16.52.09:099][770]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-16.52.12:636][770]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.52.12:755][770]LogAssetEditorManager: Opening Asset editor for World /Game/Test.Test
+[2019.12.13-16.52.12:836][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.13-16.52.12:885][770]Cmd: MAP LOAD FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-16.52.12:885][770]LightingResults: New page: Lighting Build
+[2019.12.13-16.52.12:889][770]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.12.13-16.52.12:890][770]LoadErrors: New page: Loading map: Test.umap
+[2019.12.13-16.52.12:891][770]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.52.12:891][770]MapCheck: New page: Map Check
+[2019.12.13-16.52.12:891][770]LightingResults: New page: Lighting Build
+[2019.12.13-16.52.12:919][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.13-16.52.13:206][770]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-16.52.13:237][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.12.13-16.52.13:285][770]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-16.52.13:286][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.303ms to complete.
+[2019.12.13-16.52.13:286][770]LogFileHelpers: Loading map 'Test' took 0.449
+[2019.12.13-16.52.15:099][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.52.15:145][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.52.15:171][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.52.15:172][857]PIE: New page: PIE session: Test (Dec 13, 2019, 12:52:15 AM)
+[2019.12.13-16.52.15:187][857]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.13-16.52.15:223][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.52.15:319][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096088s)
+[2019.12.13-16.52.15:320][857]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.52.15:346][857]LogPlayLevel: PIE: World Init took: (0.026451s)
+[2019.12.13-16.52.15:346][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.122998s)
+[2019.12.13-16.52.15:373][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.13-16.52.15:441][857]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.52.15:490][857]LogInit: FAudioDevice initialized.
+[2019.12.13-16.52.15:546][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.52.15:579][857]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.52.15:650][857]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.52.15
+[2019.12.13-16.52.15:745][857]LogWorld: Bringing up level for play took: 0.095175
+[2019.12.13-16.52.15:748][857]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.13-16.52.15:966][857]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.13-16.52.16:311][857]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.876
+[2019.12.13-16.52.16:312][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.52.16:560][858]LogRenderer: Reallocating scene render targets to support 1280x716 Format 10 NumSamples 1 (Frame:1).
+[2019.12.13-16.53.15:291][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.53.15:370][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.53.15:370][294]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-16.53.15:381][294]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-16.53.15:389][294]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.53.15:502][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.53.15:504][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.53.15:562][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.13-16.53.15:612][295]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.13-16.53.18:345][455]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.53.18:362][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.53.18:362][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.53.18:363][455]PIE: New page: PIE session: Test (Dec 13, 2019, 12:53:18 AM)
+[2019.12.13-16.53.18:363][455]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.53.18:367][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004414s)
+[2019.12.13-16.53.18:368][455]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.53.18:368][455]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2019.12.13-16.53.18:368][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005782s)
+[2019.12.13-16.53.18:393][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.13-16.53.18:409][455]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.53.18:441][455]LogInit: FAudioDevice initialized.
+[2019.12.13-16.53.18:461][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.53.18:462][455]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.53.18:464][455]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.53.18
+[2019.12.13-16.53.18:464][455]LogWorld: Bringing up level for play took: 0.001071
+[2019.12.13-16.53.18:464][455]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.13-16.53.18:475][455]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.04
+[2019.12.13-16.53.18:476][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.54.50:506][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.54.50:507][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.54.50:507][956]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-16.54.50:521][956]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-16.54.50:525][956]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.54.50:537][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.54.50:537][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.54.50:576][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.13-16.54.50:611][957]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.13-16.54.52:716][ 82]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.54.52:726][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.54.52:726][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.54.52:726][ 82]PIE: New page: PIE session: Test (Dec 13, 2019, 12:54:52 AM)
+[2019.12.13-16.54.52:727][ 82]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.54.52:731][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003718s)
+[2019.12.13-16.54.52:732][ 82]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.54.52:732][ 82]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2019.12.13-16.54.52:732][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005546s)
+[2019.12.13-16.54.52:758][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.13-16.54.52:773][ 82]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.54.52:801][ 82]LogInit: FAudioDevice initialized.
+[2019.12.13-16.54.52:821][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.54.52:821][ 82]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.54.52:822][ 82]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.54.52
+[2019.12.13-16.54.52:823][ 82]LogWorld: Bringing up level for play took: 0.001079
+[2019.12.13-16.54.52:823][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.13-16.54.52:830][ 82]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.604
+[2019.12.13-16.54.52:831][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.57.27:015][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.57.27:015][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.57.27:016][316]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-16.57.27:030][316]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-16.57.27:037][316]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.57.27:045][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.57.27:045][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.57.27:088][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.12.13-16.57.27:122][317]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.13-16.57.28:914][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.57.28:926][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.57.28:927][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.57.28:927][422]PIE: New page: PIE session: Test (Dec 13, 2019, 12:57:28 AM)
+[2019.12.13-16.57.28:927][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.57.28:933][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005626s)
+[2019.12.13-16.57.28:935][422]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.57.28:935][422]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2019.12.13-16.57.28:935][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.008101s)
+[2019.12.13-16.57.28:962][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.12.13-16.57.28:976][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.57.29:002][422]LogInit: FAudioDevice initialized.
+[2019.12.13-16.57.29:023][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.57.29:023][422]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.57.29:025][422]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.57.29
+[2019.12.13-16.57.29:025][422]LogWorld: Bringing up level for play took: 0.001088
+[2019.12.13-16.57.29:026][422]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.13-16.57.29:037][422]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.399
+[2019.12.13-16.57.29:037][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.58.27:945][933]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={98A67642-4F83-5DCA-CFE0-2F831139E610}
+[2019.12.13-16.58.55:732][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.58.55:732][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.58.55:732][593]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-16.58.55:745][593]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-16.58.55:749][593]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.58.55:758][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.58.55:758][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.58.55:806][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.13-16.58.55:841][594]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.13-16.58.59:108][789]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.58.59:121][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.58.59:121][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.58.59:121][789]PIE: New page: PIE session: Test (Dec 13, 2019, 12:58:59 AM)
+[2019.12.13-16.58.59:121][789]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.58.59:125][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003706s)
+[2019.12.13-16.58.59:126][789]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.58.59:127][789]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2019.12.13-16.58.59:127][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005514s)
+[2019.12.13-16.58.59:153][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.13-16.58.59:168][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.58.59:194][789]LogInit: FAudioDevice initialized.
+[2019.12.13-16.58.59:214][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.58.59:214][789]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.58.59:216][789]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.58.59
+[2019.12.13-16.58.59:217][789]LogWorld: Bringing up level for play took: 0.001668
+[2019.12.13-16.58.59:217][789]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.13-16.58.59:228][789]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.207
+[2019.12.13-16.58.59:228][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.59.07:268][262]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-16.59.07:273][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.59.07:274][262]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-16.59.07:274][262]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.59.07:285][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.59.07:285][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.59.07:327][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.13-16.59.07:372][263]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.13-16.59.08:404][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-16.59.08:417][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-16.59.08:417][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.59.08:417][324]PIE: New page: PIE session: Test (Dec 13, 2019, 12:59:08 AM)
+[2019.12.13-16.59.08:417][324]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-16.59.08:421][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003791s)
+[2019.12.13-16.59.08:422][324]LogAIModule: Creating AISystem for world Test
+[2019.12.13-16.59.08:422][324]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2019.12.13-16.59.08:422][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005264s)
+[2019.12.13-16.59.08:448][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.13-16.59.08:463][324]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.59.08:489][324]LogInit: FAudioDevice initialized.
+[2019.12.13-16.59.08:504][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.59.08:504][324]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-16.59.08:506][324]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-08.59.08
+[2019.12.13-16.59.08:506][324]LogWorld: Bringing up level for play took: 0.001185
+[2019.12.13-16.59.08:506][324]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.13-16.59.08:514][324]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.079
+[2019.12.13-16.59.08:514][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.00.22:385][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.00.22:386][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.00.22:386][721]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.00.22:400][721]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.00.22:405][721]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.00.22:414][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.00.22:415][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.00.22:453][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.13-17.00.22:493][722]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.13-17.00.26:644][969]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.00.26:658][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.00.26:658][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.00.26:658][969]PIE: New page: PIE session: Test (Dec 13, 2019, 1:00:26 AM)
+[2019.12.13-17.00.26:658][969]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.00.26:662][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003739s)
+[2019.12.13-17.00.26:663][969]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.00.26:663][969]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2019.12.13-17.00.26:663][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005158s)
+[2019.12.13-17.00.26:691][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.13-17.00.26:706][969]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.00.26:733][969]LogInit: FAudioDevice initialized.
+[2019.12.13-17.00.26:751][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.00.26:752][969]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.00.26:755][969]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-09.00.26
+[2019.12.13-17.00.26:755][969]LogWorld: Bringing up level for play took: 0.001634
+[2019.12.13-17.00.26:756][969]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.13-17.00.26:764][969]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.671
+[2019.12.13-17.00.26:764][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.05.39:546][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.05.39:548][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.05.39:548][688]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.05.39:561][688]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.05.39:568][688]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.05.39:577][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.05.39:577][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.05.39:619][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.13-17.05.39:650][689]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.13-17.05.43:418][868]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.12.13-17.05.48:286][ 77]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2019.12.13-17.05.49:412][ 77]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 121 classes and 0 folders.
+[2019.12.13-17.05.51:580][ 77]LogSlate: Took 0.040924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.13-17.05.52:093][ 78]LogSlate: Took 0.001567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.13-17.06.51:942][224]LogEditorTransaction: Undo Move Node
+[2019.12.13-17.06.54:270][350]LogEditorTransaction: Undo Move Node
+[2019.12.13-17.06.54:914][385]LogEditorTransaction: Undo Create Pin Link
+[2019.12.13-17.06.55:512][418]LogEditorTransaction: Undo Add Node
+[2019.12.13-17.07.16:301][532]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2019.12.13-17.07.16:313][532]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2019.12.13-17.07.16:474][532]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.07.18:065][602]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Lane.BP_Lane
+[2019.12.13-17.08.42:047][397]LogSlate: Window 'BP_Lane' being destroyed
+[2019.12.13-17.08.42:065][397]LogSlate: Window 'BP_Lane' being destroyed
+[2019.12.13-17.08.42:068][397]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.08.45:172][558]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LaneSpawner.BP_LaneSpawner
+[2019.12.13-17.10.45:196][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LaneSpawner" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_LaneSpawner.uasset" SILENT=true
+[2019.12.13-17.10.46:433][319]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_LaneSpawner9C9D647C4A5AF95B0BF08A8293CC53F2.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_LaneSpawner.uasset'
+[2019.12.13-17.10.48:363][424]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.10.48:380][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.10.48:380][424]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-17.10.48:453][424]LogPlayLevel: [PlayLevel] Compiling BP_LaneSpawner before play...
+[2019.12.13-17.10.49:297][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.13-17.10.49:298][424]LogPlayLevel: PlayLevel: Blueprint regeneration took 917 ms (1 blueprints)
+[2019.12.13-17.10.49:298][424]PIE: New page: PIE session: Test (Dec 13, 2019, 1:10:49 AM)
+[2019.12.13-17.10.49:299][424]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.10.49:303][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004018s)
+[2019.12.13-17.10.49:304][424]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.10.49:305][424]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2019.12.13-17.10.49:305][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005647s)
+[2019.12.13-17.10.49:342][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.12.13-17.10.49:368][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.10.49:397][424]LogInit: FAudioDevice initialized.
+[2019.12.13-17.10.49:416][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.10.49:416][424]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.10.49:418][424]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-09.10.49
+[2019.12.13-17.10.49:419][424]LogWorld: Bringing up level for play took: 0.001182
+[2019.12.13-17.10.49:419][424]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.13-17.10.49:428][424]PIE: Play in editor start time for /Game/UEDPIE_0_Test 1.992
+[2019.12.13-17.10.49:429][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.10.57:102][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.10.57:103][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.10.57:103][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.10.57:117][871]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.10.57:122][871]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.10.57:134][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.10.57:134][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.10.57:185][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.13-17.10.57:218][872]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.13-17.10.58:765][963]Cmd: TRANSACTION UNDO
+[2019.12.13-17.10.58:765][963]LogEditorTransaction: Undo Create Pin Link
+[2019.12.13-17.11.16:463][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.11.16:474][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.11.16:474][968]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-17.11.16:477][968]LogPlayLevel: [PlayLevel] Compiling BP_LaneSpawner before play...
+[2019.12.13-17.11.16:705][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.13-17.11.16:705][968]LogPlayLevel: PlayLevel: Blueprint regeneration took 231 ms (1 blueprints)
+[2019.12.13-17.11.16:705][968]PIE: New page: PIE session: Test (Dec 13, 2019, 1:11:16 AM)
+[2019.12.13-17.11.16:705][968]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.11.16:709][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2019.12.13-17.11.16:711][968]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.11.16:711][968]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2019.12.13-17.11.16:711][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.006171s)
+[2019.12.13-17.11.16:748][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.13-17.11.16:763][968]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.11.16:791][968]LogInit: FAudioDevice initialized.
+[2019.12.13-17.11.16:812][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.11.16:812][968]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.11.16:814][968]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-09.11.16
+[2019.12.13-17.11.16:814][968]LogWorld: Bringing up level for play took: 0.001266
+[2019.12.13-17.11.16:815][968]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.13-17.11.16:823][968]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.612
+[2019.12.13-17.11.16:824][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.11.52:092][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.11.52:093][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.11.52:093][ 67]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.11.52:106][ 67]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.11.52:111][ 67]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.11.52:127][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.11.52:128][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.11.52:182][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.13-17.11.52:215][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.13-17.16.01:607][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.12.13-17.16.01:732][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.13-17.16.02:194][  5]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Test_Auto186C71D9C4D9BF2FE96E21FBC3E906DC8.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Test_Auto1.umap'
+[2019.12.13-17.16.02:199][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test' took 0.635
+[2019.12.13-17.16.02:199][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.635
+[2019.12.13-17.16.02:316][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LaneSpawner] ([1] browsable assets)...
+[2019.12.13-17.16.02:316][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LaneSpawner]
+[2019.12.13-17.16.02:426][  5]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_LaneSpawner_Auto10FCBC14F4F0102ADB1F1B3ABD3B13AF5.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_LaneSpawner_Auto1.uasset'
+[2019.12.13-17.16.02:567][  5]LogFileHelpers: Auto-saving content packages took 0.367
+[2019.12.13-17.16.22:379][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.17.31:591][282]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.18.20:793][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-17.18.20:891][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.18.20:903][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.18.20:903][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.18.20:903][233]PIE: New page: PIE session: Test (Dec 13, 2019, 1:18:20 AM)
+[2019.12.13-17.18.20:903][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.18.20:910][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006764s)
+[2019.12.13-17.18.20:911][233]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.18.20:911][233]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2019.12.13-17.18.20:911][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.008337s)
+[2019.12.13-17.18.20:949][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.13-17.18.21:017][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.18.21:042][233]LogInit: FAudioDevice initialized.
+[2019.12.13-17.18.21:065][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.18.21:065][233]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.18.21:067][233]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2019.12.13-09.18.21
+[2019.12.13-17.18.21:068][233]LogWorld: Bringing up level for play took: 0.001217
+[2019.12.13-17.18.21:068][233]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.13-17.18.21:078][233]PIE: Play in editor start time for /Game/UEDPIE_0_Test -0.358
+[2019.12.13-17.18.21:078][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.19.22:241][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.19.22:242][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.19.22:242][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.19.22:255][871]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.19.22:260][871]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.19.22:269][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.19.22:269][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.19.22:327][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.13-17.19.22:360][872]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.13-17.34.11:907][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.34.14:023][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-17.34.14:125][430]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.34.14:137][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.34.14:137][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.34.14:138][430]PIE: New page: PIE session: Test (Dec 13, 2019, 1:34:14 AM)
+[2019.12.13-17.34.14:138][430]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.34.14:142][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004748s)
+[2019.12.13-17.34.14:144][430]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.34.14:144][430]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2019.12.13-17.34.14:144][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.006426s)
+[2019.12.13-17.34.14:187][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.12.13-17.34.14:204][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.34.14:230][430]LogInit: FAudioDevice initialized.
+[2019.12.13-17.34.14:247][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.34.14:247][430]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.34.14:249][430]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.12.13-09.34.14
+[2019.12.13-17.34.14:249][430]LogWorld: Bringing up level for play took: 0.001242
+[2019.12.13-17.34.14:250][430]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.13-17.34.14:259][430]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.823
+[2019.12.13-17.34.14:259][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.35.00:491][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.35.00:491][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.35.00:491][714]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.35.00:505][714]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.35.00:509][714]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.35.00:523][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.35.00:523][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.35.00:585][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.12.13-17.35.00:621][715]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.13-17.38.13:232][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.42.40:332][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.43.30:344][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.51.12:659][402]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.51.13:577][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-17.51.13:662][493]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.51.13:676][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.51.13:676][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.51.13:676][493]PIE: New page: PIE session: Test (Dec 13, 2019, 1:51:13 AM)
+[2019.12.13-17.51.13:676][493]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.51.13:680][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004359s)
+[2019.12.13-17.51.13:682][493]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.51.13:682][493]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2019.12.13-17.51.13:682][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.006048s)
+[2019.12.13-17.51.13:722][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.13-17.51.13:738][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.51.13:761][493]LogInit: FAudioDevice initialized.
+[2019.12.13-17.51.13:780][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.51.13:781][493]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.51.13:783][493]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.12.13-09.51.13
+[2019.12.13-17.51.13:784][493]LogWorld: Bringing up level for play took: 0.001921
+[2019.12.13-17.51.13:784][493]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.13-17.51.13:795][493]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.361
+[2019.12.13-17.51.13:796][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.51.58:999][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.51.59:000][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.51.59:000][737]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.51.59:014][737]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.51.59:019][737]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.51.59:035][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.51.59:037][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.51.59:093][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.13-17.51.59:110][738]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.13-17.52.29:057][964]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.13-17.54.02:868][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-17.54.02:987][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.54.02:999][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.54.02:999][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.54.03:000][519]PIE: New page: PIE session: Test (Dec 13, 2019, 1:54:02 AM)
+[2019.12.13-17.54.03:000][519]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.54.03:004][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004553s)
+[2019.12.13-17.54.03:006][519]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.54.03:006][519]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2019.12.13-17.54.03:006][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.006295s)
+[2019.12.13-17.54.04:137][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.12.13-17.54.04:155][519]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.54.04:182][519]LogInit: FAudioDevice initialized.
+[2019.12.13-17.54.04:202][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.54.04:203][519]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.54.04:205][519]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.12.13-09.54.04
+[2019.12.13-17.54.04:205][519]LogWorld: Bringing up level for play took: 0.001286
+[2019.12.13-17.54.04:205][519]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.13-17.54.04:218][519]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.783
+[2019.12.13-17.54.04:219][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.55.41:143][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.55.41:144][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.55.41:144][580]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.55.41:159][580]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.55.41:168][580]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.55.41:198][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.55.41:198][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.55.41:269][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.12.13-17.55.41:286][581]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.13-17.56.01:844][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.13-17.56.01:859][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.56.01:859][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-17.56.01:859][887]PIE: New page: PIE session: Test (Dec 13, 2019, 1:56:01 AM)
+[2019.12.13-17.56.01:859][887]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test
+[2019.12.13-17.56.01:863][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004058s)
+[2019.12.13-17.56.01:865][887]LogAIModule: Creating AISystem for world Test
+[2019.12.13-17.56.01:865][887]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2019.12.13-17.56.01:865][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test.Test to /Game/UEDPIE_0_Test.Test (0.005824s)
+[2019.12.13-17.56.02:005][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.13-17.56.02:020][887]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-17.56.02:044][887]LogInit: FAudioDevice initialized.
+[2019.12.13-17.56.02:065][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-17.56.02:066][887]LogLoad: Game class is 'CrossyRoad_C'
+[2019.12.13-17.56.02:068][887]LogWorld: Bringing World /Game/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.12.13-09.56.02
+[2019.12.13-17.56.02:068][887]LogWorld: Bringing up level for play took: 0.001201
+[2019.12.13-17.56.02:068][887]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.13-17.56.02:081][887]PIE: Play in editor start time for /Game/UEDPIE_0_Test 0.646
+[2019.12.13-17.56.02:082][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.56.48:431][309]LogSlate: Window 'CrossyRoad Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.13-17.56.48:435][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.56.48:435][309]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test
+[2019.12.13-17.56.48:436][309]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.48:454][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-17.56.48:455][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Test.Test_C' with ClassGeneratedBy '/Game/Test.Test:PersistentLevel.Test'
+[2019.12.13-17.56.48:518][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.13-17.56.48:689][310]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.13-17.56.49:206][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.13-17.56.51:520][361]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-17.56.51:766][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LaneSpawner" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_LaneSpawner.uasset" SILENT=true
+[2019.12.13-17.56.52:118][361]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/BP_LaneSpawnerAA0CA5154401D62E943DFB8CE6D2BDC6.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Blueprints/BP_LaneSpawner.uasset'
+[2019.12.13-17.56.52:149][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test" FILE="../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-17.56.52:185][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.13-17.56.52:852][361]LogSavePackage: Moving '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Saved/TestE95DE3E44975512C25F5C6875B6EFD48.tmp' to '../../../../../../Users/Hyrek/Desktop/crossyroad-FReAKGames/CrossyRoad/Content/Test.umap'
+[2019.12.13-17.56.52:907][361]LogFileHelpers: Saving map 'Test' took 0.759
+[2019.12.13-17.56.53:070][361]LogSlate: Window 'BP_LaneSpawner' being destroyed
+[2019.12.13-17.56.53:252][361]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.53:751][361]LogSlate: Window 'CrossyRoad - Unreal Editor' being destroyed
+[2019.12.13-17.56.53:753][361]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.13-17.56.54:723][362]Cmd: QUIT_EDITOR
+[2019.12.13-17.56.55:564][362]LogExit: Preparing to exit.
+[2019.12.13-17.56.56:585][362]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:587][362]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:589][362]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:591][362]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:593][362]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:594][362]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:596][362]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:598][362]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:600][362]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:602][362]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:604][362]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:606][362]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:695][362]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.13-17.56.56:717][362]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-17.56.56:737][362]LogExit: Editor shut down
+[2019.12.13-17.56.56:739][362]LogExit: Transaction tracking system shut down
+[2019.12.13-17.56.57:164][362]LogExit: Object subsystem successfully closed.
+[2019.12.13-17.56.57:191][362]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.13-17.56.57:318][362]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.12.13-17.56.57:318][362]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.13-17.56.57:318][362]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.13-17.56.57:359][362]LogModuleManager: Shutting down and abandoning module StatsViewer (668)
+[2019.12.13-17.56.57:359][362]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (666)
+[2019.12.13-17.56.57:359][362]LogModuleManager: Shutting down and abandoning module SceneOutliner (664)
+[2019.12.13-17.56.57:359][362]LogModuleManager: Shutting down and abandoning module AddContentDialog (662)
+[2019.12.13-17.56.57:378][362]LogModuleManager: Shutting down and abandoning module WidgetCarousel (661)
+[2019.12.13-17.56.57:378][362]LogModuleManager: Shutting down and abandoning module EditorWidgets (658)
+[2019.12.13-17.56.57:378][362]LogModuleManager: Shutting down and abandoning module CollectionManager (656)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.13-17.56.57:379][362]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.13-17.56.57:380][362]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.13-17.56.57:381][362]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.13-17.56.57:389][362]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.13-17.56.58:912][362]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.13-17.56.58:913][362]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.13-17.56.58:957][362]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.13-17.56.58:966][362]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.13-17.56.58:966][362]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.13-17.56.58:966][362]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.13-17.56.58:967][362]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.13-17.56.58:967][362]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.13-17.56.58:967][362]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.13-17.56.58:967][362]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.13-17.56.58:967][362]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.13-17.56.58:968][362]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.13-17.56.58:973][362]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.13-17.56.59:120][362]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.13-17.56.59:121][362]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.13-17.56.59:122][362]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.13-17.56.59:223][362]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.13-17.56.59:324][362]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.13-17.56.59:324][362]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.13-17.56.59:325][362]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.13-17.56.59:326][362]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.13-17.56.59:326][362]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.13-17.56.59:327][362]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.13-17.56.59:327][362]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.13-17.56.59:327][362]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.13-17.56.59:330][362]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.13-17.56.59:330][362]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.13-17.56.59:330][362]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.13-17.56.59:330][362]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.13-17.56.59:330][362]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.13-17.56.59:335][362]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.13-17.56.59:337][362]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.13-17.56.59:337][362]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.13-17.56.59:345][362]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.13-17.56.59:345][362]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.13-17.56.59:345][362]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.13-17.56.59:346][362]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.13-17.56.59:347][362]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.13-17.56.59:347][362]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.13-17.56.59:347][362]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.13-17.56.59:349][362]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.13-17.56.59:349][362]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.13-17.56.59:350][362]LogDerivedDataCache: Shutdown
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.13-17.56.59:350][362]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.13-17.56.59:351][362]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.13-17.56.59:367][362]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.13-17.56.59:367][362]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.13-17.56.59:367][362]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.13-17.56.59:367][362]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.13-17.56.59:367][362]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.13-17.56.59:372][362]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.13-17.56.59:372][362]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.13-17.56.59:376][362]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.13-17.56.59:376][362]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.13-17.56.59:412][362]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.13-17.56.59:413][362]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.13-17.56.59:413][362]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.13-17.56.59:414][362]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.13-17.56.59:415][362]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.13-17.56.59:447][362]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.13-17.56.59:447][362]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.13-17.56.59:447][362]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5CEA75CD-4C6C-F825-FDF1-B0BA3D4C6B7C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=35a62f3b4dbd053ce28eef8d5781dd87%7Cb3ded4d070a541e7ac54f079e708bd4b%7Cb45d28d5-02a4-4fe1-a1a8-54a30424a7aa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.13-17.56.59:481][362]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.13-17.56.59:484][362]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.13-17.56.59:493][362]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.13-17.56.59:494][362]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.13-17.56.59:494][362]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.13-17.56.59:495][362]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.13-17.56.59:498][362]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.13-17.56.59:499][362]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.13-17.56.59:499][362]LogD3D11RHI: Shutdown
+[2019.12.13-17.56.59:499][362]LogD3D11RHI: CleanupD3DDevice
+[2019.12.13-17.56.59:500][362]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-17.56.59:501][362]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-17.56.59:501][362]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-17.56.59:698][362]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.13-17.56.59:705][362]LogExit: Exiting.
+[2019.12.13-17.56.59:755][362]Log file closed, 12/13/19 09:56:59
+>>>>>>> Stashed changes
